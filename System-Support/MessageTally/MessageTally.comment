@@ -1,0 +1,14 @@
+See the comment for spyOn: in MessageTally class for an example of how to use the spy.
+
+MessageTallies represent nodes in a tree which gathers statistics on the time spent in various parts of the system.  Specifically, each node represents a message being sent.  During the evaluation of an expression, a timer periodically interrupts the execution of the various methods involved, and tallies these probes in the tree of MessageTallies which it constructs.  When evaluation of the expression is complete, a detailed report is produced indicating where in the system most of the time was spent.
+
+Instance variables:
+	class		<Behavior> the class of the receiver of the message
+	method		<CompiledMethod> which was running when probe occurred
+	tally		<Integer> number of probes which hit this method or others
+				called by it
+	receivers	<Collection of MessageTally> sons of this node in the tree,
+				representing tallies of methods called from this one.
+				If this field is nil, it indicates tallies due to in-line primitives
+
+MessageTallies may be taken on only one block at a time.  Spying on two blocks at once does not work.  The block upon which the MessageTally is spying can be stopped and started.  See spyEvery:on:.

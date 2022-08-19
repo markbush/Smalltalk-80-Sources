@@ -1,0 +1,10 @@
+{
+  "class": "Time",
+  "superclass": "Magnitude",
+  "classType": "subclass",
+  "instanceVariables": "hours minutes seconds",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Numeric-Magnitudes",
+}

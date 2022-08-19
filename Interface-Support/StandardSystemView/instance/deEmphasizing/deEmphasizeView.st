@@ -1,0 +1,2 @@
+deEmphasizeView
+	self deEmphasizeLabel

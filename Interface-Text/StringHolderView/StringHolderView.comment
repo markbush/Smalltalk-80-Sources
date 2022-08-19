@@ -1,0 +1,4 @@
+I am a View of a String that is an aspect of a more structured object.  This String should not be changed by any editing unless the user issues the accept command.  Thus my instances provide a working copy of the String.  This copy is edited.  When the user issues the accept command, the String is copied from the working version;  or if the user issues the cancel command, the working version is restored from the String.  StringHolderController is my default controller.  It is initialized specially by passing the string viewed which is then converted to a Paragraph for editing.
+
+Instance Variables:
+	displayContents	<String> the working copy

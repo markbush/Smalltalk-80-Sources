@@ -1,0 +1,10 @@
+{
+  "class": "DisplayScreen",
+  "superclass": "Form",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

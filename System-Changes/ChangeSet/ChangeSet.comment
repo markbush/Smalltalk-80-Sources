@@ -1,0 +1,10 @@
+I keep track of the changes made to a system, so I can make an incremental fileOut.  I do not remember the order in which changes are made although this sometimes matters.
+
+Instance variables:
+	classChanges	<Dictionary> {class name -> <Set>
+						{add, change, comment, rename, reorganize, 'oldName: xxx'}}
+	methodChanges	<Dictionary> {class name -> <IdentityDictionary>
+										{selector -> add | change | remove}}
+	classRemoves	<Set> {class name}
+	reorganizeSystem	<Boolean> - indicates if SystemOrganization was changed.
+	specialDoIts		<OrderedCollection> of Smalltalk expressions.

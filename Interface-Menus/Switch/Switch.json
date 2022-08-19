@@ -1,0 +1,10 @@
+{
+  "class": "Switch",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "on onAction offAction",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

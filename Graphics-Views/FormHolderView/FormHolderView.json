@@ -1,0 +1,10 @@
+{
+  "class": "FormHolderView",
+  "superclass": "FormView",
+  "classType": "subclass",
+  "instanceVariables": "displayedForm",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Views",
+}

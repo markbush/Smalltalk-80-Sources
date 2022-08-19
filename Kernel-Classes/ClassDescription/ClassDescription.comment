@@ -1,0 +1,11 @@
+Instance Variables:
+		instanceVariables	<Array> names of instance fields
+		organization		<ClassOrganizer> provides organization of message protocol
+
+ClassDescription adds a number of facilities to basic Behavior:
+		- named instance variables
+		- category organization for methods
+		- the notion of a name of this class (implemented as subclass responsibility)
+		- the maintenance of the Changes set, and logging changes on a file
+		- most of the mechanism for fileOut
+ClassDescription is an abstract class: its facilities are intended for inheritance by the two subclasses, Class and Metaclass.

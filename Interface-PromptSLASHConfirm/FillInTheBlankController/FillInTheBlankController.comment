@@ -1,0 +1,1 @@
+I am a StringHolderController for a FillInTheBlankView.  The string is information that the user can type in and edit.  Upon issuing the accept command, this information is used by my model in the evaluation of an action block.

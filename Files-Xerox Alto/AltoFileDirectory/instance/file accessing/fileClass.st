@@ -1,0 +1,2 @@
+fileClass
+	^AltoFile

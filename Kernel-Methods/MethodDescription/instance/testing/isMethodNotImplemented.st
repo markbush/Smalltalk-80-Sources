@@ -1,0 +1,2 @@
+isMethodNotImplemented
+	^status == #methodNotImplemented

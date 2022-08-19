@@ -1,0 +1,2 @@
+arcCos
+	^self asFloat arcCos

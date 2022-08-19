@@ -1,0 +1,2 @@
+pageNumber
+	^self headerWordAt: Pagen

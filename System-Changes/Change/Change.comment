@@ -1,0 +1,7 @@
+I represent a single change of some kind.  I have many subclasses for specific kinds of changes.  The text which represents me is a chunk of a file starting at a particular position.
+
+Since so many kinds of changes are related to classes, categories, and methods, there are dummy accessing methods for these parameters in class Change.
+
+Instance variables:
+	file <FileStream>
+	position <Integer>

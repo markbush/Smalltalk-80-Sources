@@ -1,0 +1,10 @@
+{
+  "class": "Metaclass",
+  "superclass": "ClassDescription",
+  "classType": "subclass",
+  "instanceVariables": "thisClass",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Classes",
+}

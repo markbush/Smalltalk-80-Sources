@@ -1,0 +1,10 @@
+{
+  "class": "Point",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "x y",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Primitives",
+}

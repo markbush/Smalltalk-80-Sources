@@ -1,0 +1,10 @@
+{
+  "class": "OtherChange",
+  "superclass": "Change",
+  "classType": "subclass",
+  "instanceVariables": "text",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

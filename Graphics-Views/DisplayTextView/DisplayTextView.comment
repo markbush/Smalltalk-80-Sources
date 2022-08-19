@@ -1,0 +1,8 @@
+I represent a view of an instance of DisplayText.
+
+Instance Variables:
+	rule		<Integer> according to which character display behaves:  equal over, under,
+			and reverse.
+	mask	<Form> with which each character is combined by the display scanner
+			before applying the rule.
+	editParagraph	<Paragraph> the composed text ready for display

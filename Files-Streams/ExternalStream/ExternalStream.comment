@@ -1,0 +1,1 @@
+I represent an accessor for a sequence of objects that communicate to the outside world.  My instances can contain non-homogenous elements.  Assumes streaming on a collection of binary, byte-sized elements.  My methods assume that a "word" consists of two-bytes.

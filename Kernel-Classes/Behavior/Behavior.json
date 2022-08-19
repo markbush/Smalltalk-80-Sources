@@ -1,0 +1,10 @@
+{
+  "class": "Behavior",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "superclass methodDict format subclasses",
+  "classInstanceVariables": "",
+  "classVariables": "SelectorsOfConflictMethods SelectorsOfCopiedMethods SelectorsOfDirectedMethods",
+  "poolDictionaries": "",
+  "category": "Kernel-Classes",
+}

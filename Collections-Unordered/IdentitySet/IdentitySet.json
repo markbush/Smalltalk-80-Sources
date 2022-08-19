@@ -1,0 +1,10 @@
+{
+  "class": "IdentitySet",
+  "superclass": "Set",
+  "classType": "variableSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Unordered",
+}

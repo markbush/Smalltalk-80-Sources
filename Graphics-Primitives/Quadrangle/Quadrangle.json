@@ -1,0 +1,10 @@
+{
+  "class": "Quadrangle",
+  "superclass": "Rectangle",
+  "classType": "subclass",
+  "instanceVariables": "borderWidth borderColor insideColor",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Primitives",
+}

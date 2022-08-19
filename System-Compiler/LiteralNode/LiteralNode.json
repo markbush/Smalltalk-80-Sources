@@ -1,0 +1,10 @@
+{
+  "class": "LiteralNode",
+  "superclass": "LeafNode",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

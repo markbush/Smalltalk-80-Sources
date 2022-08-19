@@ -1,0 +1,10 @@
+{
+  "class": "File",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "fileDirectory fileName pageCache serialNumber lastPageNumber binary readWrite error",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "FilePool",
+  "category": "Files-Abstract",
+}

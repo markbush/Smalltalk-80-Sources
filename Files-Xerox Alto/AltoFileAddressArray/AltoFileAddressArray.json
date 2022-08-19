@@ -1,0 +1,10 @@
+{
+  "class": "AltoFileAddressArray",
+  "superclass": "RunArray",
+  "classType": "subclass",
+  "instanceVariables": "directory",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Files-Xerox Alto",
+}

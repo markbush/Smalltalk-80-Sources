@@ -1,0 +1,10 @@
+{
+  "class": "Circle",
+  "superclass": "Arc",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Paths",
+}

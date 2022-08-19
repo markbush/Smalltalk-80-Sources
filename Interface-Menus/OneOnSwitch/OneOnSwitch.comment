@@ -1,0 +1,4 @@
+I am a kind of Switch that can be connected to some related object, typically to a collection of my instances.  When my instance is created, its connection is set to a particular object.  When the object changes because an instance is turned on, an update message is broadcasted.  All the connected OneOnSwitches, except the changed one, turn off.  This allows OneOnSwitches to maintain the constraint that at most one of them will be on at any time.  OneOnSwitches can thus be made to act like "car radio" switches.
+
+Instance Variables:
+	connection	any object

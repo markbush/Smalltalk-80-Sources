@@ -1,0 +1,10 @@
+{
+  "class": "SortedCollection",
+  "superclass": "OrderedCollection",
+  "classType": "variableSubclass",
+  "instanceVariables": "sortBlock",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Sequenceable",
+}

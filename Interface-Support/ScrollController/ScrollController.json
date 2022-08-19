@@ -1,0 +1,10 @@
+{
+  "class": "ScrollController",
+  "superclass": "MouseMenuController",
+  "classType": "subclass",
+  "instanceVariables": "scrollBar marker savedArea",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Support",
+}

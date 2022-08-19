@@ -1,0 +1,2 @@
+openBrowser
+	BrowserView openOn: SystemOrganization

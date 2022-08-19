@@ -1,0 +1,2 @@
+textForDisplay
+	^self stringForDisplay asText

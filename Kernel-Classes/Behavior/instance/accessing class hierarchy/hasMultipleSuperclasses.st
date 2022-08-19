@@ -1,0 +1,2 @@
+hasMultipleSuperclasses
+	^false

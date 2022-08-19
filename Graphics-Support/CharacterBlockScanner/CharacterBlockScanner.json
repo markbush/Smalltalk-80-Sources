@@ -1,0 +1,10 @@
+{
+  "class": "CharacterBlockScanner",
+  "superclass": "CharacterScanner",
+  "classType": "subclass",
+  "instanceVariables": "characterPoint characterIndex lastCharacter lastCharacterExtent lastSpaceOrTabExtent nextLeftMargin",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

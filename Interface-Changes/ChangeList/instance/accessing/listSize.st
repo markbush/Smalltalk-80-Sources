@@ -1,0 +1,2 @@
+listSize
+	^list size

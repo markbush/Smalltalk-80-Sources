@@ -1,0 +1,2 @@
+categoryList
+	^ organization categories

@@ -1,0 +1,10 @@
+{
+  "class": "ClassOrganizer",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "globalComment categoryArray categoryStops elementArray",
+  "classInstanceVariables": "",
+  "classVariables": "Default",
+  "poolDictionaries": "",
+  "category": "Kernel-Support",
+}

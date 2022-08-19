@@ -1,0 +1,10 @@
+{
+  "class": "BitEditor",
+  "superclass": "MouseMenuController",
+  "classType": "subclass",
+  "instanceVariables": "scale squareForm color",
+  "classInstanceVariables": "",
+  "classVariables": "ColorButtons YellowButtonMenu YellowButtonMessages",
+  "poolDictionaries": "",
+  "category": "Graphics-Editors",
+}

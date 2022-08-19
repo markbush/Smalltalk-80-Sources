@@ -1,0 +1,2 @@
+truncated
+	^numerator quo: denominator

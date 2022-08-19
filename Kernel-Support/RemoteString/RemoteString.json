@@ -1,0 +1,10 @@
+{
+  "class": "RemoteString",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "sourceFileNumber filePositionHi filePositionLo",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Support",
+}

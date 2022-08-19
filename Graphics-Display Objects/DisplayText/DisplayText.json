@@ -1,0 +1,10 @@
+{
+  "class": "DisplayText",
+  "superclass": "DisplayObject",
+  "classType": "subclass",
+  "instanceVariables": "text textStyle offset form",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Display Objects",
+}

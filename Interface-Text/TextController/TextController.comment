@@ -1,0 +1,6 @@
+This subclass of the paragraphEditor uses actionMenus for model control protocol.
+It also makes a stab (localMenuItem:) at the problem of distinguishing user control
+directed at the model from that directed at the view/controller.
+
+This controller is more tightly connected to its view (for example it asks it for its
+yellowButtonMenu), because the view is the current site for "pluggable" parameterization.

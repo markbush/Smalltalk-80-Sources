@@ -1,0 +1,5 @@
+Instance Variables:
+		quiescentProcessLists		<Array of LinkedLists> on which to suspend processes
+		activeProcess			<Process> currently executing process
+
+My single instance, named Processor, coordinates the use of the physical processor by all Processes requiring service

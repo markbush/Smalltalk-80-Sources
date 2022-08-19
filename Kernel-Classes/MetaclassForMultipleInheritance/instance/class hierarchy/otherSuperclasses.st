@@ -1,0 +1,2 @@
+otherSuperclasses
+	^ otherSuperclasses

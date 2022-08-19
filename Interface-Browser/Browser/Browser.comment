@@ -1,0 +1,9 @@
+A browser represents a hierarchical query path which identifies a method to be examined.
+
+organization - a SystemOrganizer
+category - a selection from all categories in the organization.
+className - a selection from all classes in the category.
+meta - false for viewing normal methods, true for class methods.
+protocol - a selection from all protocols in the class.
+selector - a selection from all messages in the protocol.
+textMode - symbol indicating the nature of the currently viewed text.

@@ -1,0 +1,10 @@
+The debugger allows browsing among the stack of contexts of a suspended process.  In addition to viewing the source code at each level, the debugger supports inspection (and change) of temporary and instance variables in each context.
+
+Instance Variables:
+	context				<ContextPart> the currently viewed context
+	receiverInspector	<Inspector> on instance variables in the current context
+	contextInspector		<Inspector> on temporary variables in the current context
+	shortStack			<Boolean> true if only a short portion of the stack is being shown
+	sourceMap			<SortedCollection> of associations (pc -> range)
+	tempNames			<Array of: String>, cached names of the temporary variables
+	processHandle		<ProcessHandle> holding onto the observed process

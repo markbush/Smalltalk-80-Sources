@@ -1,0 +1,2 @@
+instHasMultipleSuperclasses
+	^false

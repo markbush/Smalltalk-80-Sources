@@ -1,0 +1,2 @@
+isLiteral
+	^Scanner isLiteralSymbol: self

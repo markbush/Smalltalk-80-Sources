@@ -1,0 +1,7 @@
+My instances hold the state of CharacterScanner in addition to the following required only for displaying or printing.  They are used to scan text and display it on the screen or in a hidden form.
+
+Instance Variables
+
+	lineY	<Integer>  Top of line currently being displayed or scanned.  The textStyle lineGrid is added or subtracted to discover the top of the next line.  May differ from destY when fonts of differing height fall on the same line.
+
+	runX	<Integer>  Left of first character in the current run -- allows for creating underlining or similar emphasis.

@@ -1,0 +1,10 @@
+{
+  "class": "KeyboardEvent",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "keyCharacter metaState",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Support",
+}

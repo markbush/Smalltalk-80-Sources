@@ -1,0 +1,10 @@
+{
+  "class": "Arc",
+  "superclass": "Path",
+  "classType": "subclass",
+  "instanceVariables": "quadrant radius center",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Paths",
+}

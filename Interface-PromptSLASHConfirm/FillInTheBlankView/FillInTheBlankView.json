@@ -1,0 +1,10 @@
+{
+  "class": "FillInTheBlankView",
+  "superclass": "StringHolderView",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Prompt/Confirm",
+}

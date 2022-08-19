@@ -1,0 +1,10 @@
+{
+  "class": "BrowserView",
+  "superclass": "StandardSystemView",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Browser",
+}

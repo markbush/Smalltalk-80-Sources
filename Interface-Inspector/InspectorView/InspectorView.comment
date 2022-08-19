@@ -1,0 +1,1 @@
+I am a StandardSystemView that provides initialization methods (messages to myself) to create and schedule the interface to an object Inspector.  I have two subViews, an InspectListView and an InspectCodeView.

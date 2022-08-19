@@ -1,0 +1,10 @@
+{
+  "class": "Decompiler",
+  "superclass": "InstructionStream",
+  "classType": "subclass",
+  "instanceVariables": "constructor method instVars tempVars constTable stack statements lastPc exit lastJumpPc lastReturnPc limit hasValue",
+  "classInstanceVariables": "",
+  "classVariables": "ArgumentFlag CascadeFlag",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

@@ -1,0 +1,10 @@
+{
+  "class": "Bag",
+  "superclass": "Collection",
+  "classType": "subclass",
+  "instanceVariables": "contents",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Unordered",
+}

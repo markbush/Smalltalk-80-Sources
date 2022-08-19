@@ -1,0 +1,2 @@
+displayContents
+	^displayContents

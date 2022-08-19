@@ -1,0 +1,10 @@
+{
+  "class": "Date",
+  "superclass": "Magnitude",
+  "classType": "subclass",
+  "instanceVariables": "day year",
+  "classInstanceVariables": "",
+  "classVariables": "DaysInMonth FirstDayOfMonth MonthNames SecondsInDay WeekDayNames",
+  "poolDictionaries": "",
+  "category": "Numeric-Magnitudes",
+}

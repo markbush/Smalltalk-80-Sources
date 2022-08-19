@@ -1,0 +1,10 @@
+{
+  "class": "Number",
+  "superclass": "Magnitude",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

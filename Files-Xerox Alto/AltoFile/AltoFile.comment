@@ -1,0 +1,6 @@
+A concrete example of class File.
+
+Instance Variables:
+	writeTime	<Time>
+	pageAddresses	<RunArray> of page addresses
+	leader		<Integer> address of the page where the leader information is stored

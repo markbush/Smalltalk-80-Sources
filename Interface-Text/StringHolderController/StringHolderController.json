@@ -1,0 +1,10 @@
+{
+  "class": "StringHolderController",
+  "superclass": "ParagraphEditor",
+  "classType": "subclass",
+  "instanceVariables": "isLockingOn",
+  "classInstanceVariables": "",
+  "classVariables": "CodeYellowButtonMenu CodeYellowButtonMessages",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

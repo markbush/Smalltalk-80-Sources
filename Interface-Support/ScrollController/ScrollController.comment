@@ -1,0 +1,9 @@
+I represent control for scrolling using a scrollBar.  I am a MouseMenuController that creates a scrollBar, rather than menus.  My subclasses add the button menus.  I keep control as long as the cursor is inside the view or the scrollBar area.
+
+A scrollBar is a rectangular area representing the length of the information being viewed.  It contains an inner rectangle whose top y-coordinate represents the relative position of the information visible on the screen with respect to all of the information, and whose size represents the relative amount of that information visible on the screen.  The user controls which part of the information is visible by pressing the red button.  If the cursor is to the right of the inner rectangle, the window onto the visible information moves upward, if the cursor is to the left, the window moves downward, and if the cursor is inside, the inner rectangle is grabbed and moved to a desired position.
+
+Instance Variables:
+	scrollBar	<Quadrangle> inside white, the outer rectangle
+	marker		<Quadrangle> inside gray, the inner rectangle
+	savedArea	<Form> the area the scrollBar overlaps, restored whenever
+				the scrollBar is hidden

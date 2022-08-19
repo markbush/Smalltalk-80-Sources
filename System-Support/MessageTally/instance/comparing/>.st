@@ -1,0 +1,2 @@
+> aMessageTally
+	^tally < aMessageTally tally

@@ -1,0 +1,10 @@
+{
+  "class": "BitBlt",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "destForm sourceForm halftoneForm combinationRule destX destY width height sourceX sourceY clipX clipY clipWidth clipHeight",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Support",
+}

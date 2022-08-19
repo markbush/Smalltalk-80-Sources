@@ -1,0 +1,10 @@
+{
+  "class": "FileList",
+  "superclass": "FileModel",
+  "classType": "subclass",
+  "instanceVariables": "list myPattern isReading",
+  "classInstanceVariables": "",
+  "classVariables": "FileMenu PatternMenu",
+  "poolDictionaries": "",
+  "category": "Interface-File Model",
+}

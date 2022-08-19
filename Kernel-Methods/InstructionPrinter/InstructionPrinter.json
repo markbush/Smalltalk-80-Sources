@@ -1,0 +1,10 @@
+{
+  "class": "InstructionPrinter",
+  "superclass": "InstructionStream",
+  "classType": "subclass",
+  "instanceVariables": "stream oldPC",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

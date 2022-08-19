@@ -1,0 +1,10 @@
+{
+  "class": "Path",
+  "superclass": "DisplayObject",
+  "classType": "subclass",
+  "instanceVariables": "form collectionOfPoints",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

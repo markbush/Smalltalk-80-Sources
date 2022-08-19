@@ -1,0 +1,10 @@
+{
+  "class": "Browser",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "organization category className meta protocol selector textMode",
+  "classInstanceVariables": "",
+  "classVariables": "CategoryMenu ClassMenu MessageMenu MethodMoveCategory MethodMoveProtocol ProtocolMenu TextMenu",
+  "poolDictionaries": "",
+  "category": "Interface-Browser",
+}

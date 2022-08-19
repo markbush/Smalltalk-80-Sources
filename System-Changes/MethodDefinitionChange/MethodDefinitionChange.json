@@ -1,0 +1,10 @@
+{
+  "class": "MethodDefinitionChange",
+  "superclass": "MethodChange",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

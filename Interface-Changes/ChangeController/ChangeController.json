@@ -1,0 +1,10 @@
+{
+  "class": "ChangeController",
+  "superclass": "StringHolderController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Changes",
+}

@@ -1,0 +1,3 @@
+MethodDictionaries behave just the same as IdentityDictionaries, except that
+removal is implemented as an atomic operation.  This allows the interpreter
+to access methodDictionaries removal without getting confused.

@@ -1,0 +1,1 @@
+I serve as the key for looking up entries in a Dictionary.  Subclasses of me are dictionary entries.  An available example is Association.

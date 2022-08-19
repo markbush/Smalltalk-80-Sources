@@ -1,0 +1,10 @@
+{
+  "class": "BlockContext",
+  "superclass": "ContextPart",
+  "classType": "variableSubclass",
+  "instanceVariables": "nargs startpc home",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

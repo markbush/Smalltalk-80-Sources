@@ -1,0 +1,2 @@
+codeEmptyBlock
+	^BlockNode new default

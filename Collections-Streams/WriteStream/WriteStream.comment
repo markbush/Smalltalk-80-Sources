@@ -1,0 +1,1 @@
+I am a writer of an indexable collection. writeLimit marks the farthest that has been written into the collection, not the actual size of the collection.

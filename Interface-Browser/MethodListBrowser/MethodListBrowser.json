@@ -1,0 +1,10 @@
+{
+  "class": "MethodListBrowser",
+  "superclass": "Browser",
+  "classType": "subclass",
+  "instanceVariables": "methodList methodName",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Browser",
+}

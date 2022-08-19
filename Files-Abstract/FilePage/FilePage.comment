@@ -1,0 +1,8 @@
+I represent a fixed size page or record of data from a File.  My instance is uniquely identified within its File by its pageNumber.
+
+The normal layout of a FilePage is as a ByteArray, which begins with some header information (e.g. serial number, page number, size), some data with possible leftover allocation, and some trailer information: pageSize = headerSize + size + (dataSize - size) + trailerSize.  In the current implementations, all FilePages (except possibly the last page) of a File are full (i.e. no unused data allocation).  This assumption is also reflected in File characterSize, and in FileStream positioning methods.  Given the current implementation of ByteArrays and Strings, each page has a type (binary or text).  The messages asStream: and fromStream: do the necessary conversion.
+
+Instance Variables:
+	file		<File> that contains the instance
+	page	<Integer> the number of the instance
+	binary 	<Boolean> true if content of page is binary, else it is text

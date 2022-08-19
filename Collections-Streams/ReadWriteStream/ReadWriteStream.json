@@ -1,0 +1,10 @@
+{
+  "class": "ReadWriteStream",
+  "superclass": "WriteStream",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Streams",
+}

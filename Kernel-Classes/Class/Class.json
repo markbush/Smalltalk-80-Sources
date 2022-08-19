@@ -1,0 +1,10 @@
+{
+  "class": "Class",
+  "superclass": "ClassDescription",
+  "classType": "subclass",
+  "instanceVariables": "name classPool sharedPools",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Classes",
+}

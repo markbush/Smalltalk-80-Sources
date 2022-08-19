@@ -1,0 +1,6 @@
+I coordinate the interaction of a Switch, a SwitchView, and input events (user actions, see class Sensor).  My instances own a message in the form of a selector and an array of arguments.  Whenever the Switch is selected, this message is sent to the Switch.
+
+Instance Variables:
+
+	selector	<Symbol>
+	arguments	<Array>

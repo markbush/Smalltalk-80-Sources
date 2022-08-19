@@ -1,0 +1,10 @@
+{
+  "class": "ChangeList",
+  "superclass": "StringHolder",
+  "classType": "subclass",
+  "instanceVariables": "listName changes selectionIndex list filter removed filterList filterKey changeDict doItDict checkSystem fieldList",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Changes",
+}

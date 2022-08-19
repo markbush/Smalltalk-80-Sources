@@ -1,0 +1,8 @@
+I am an abstract collection of elements with integers as external keys.  I re-implement several messages inherited from SequenceableCollection in order to obtain some performance gains.
+		Subclasses are
+	Array		 elements are pointers
+	ByteArray	elements are bytes
+	RunArray	elements are typically runs of the same thing
+	String		elements are characters
+	Text		elements are characters with style
+	WordArray		elements are words

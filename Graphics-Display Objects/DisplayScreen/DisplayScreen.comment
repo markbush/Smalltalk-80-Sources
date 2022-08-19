@@ -1,0 +1,1 @@
+There is only one instance of me, CurrentDisplay.  It is a global and is used to handle general user requests to deal with the whole display screen.  Although I offer no protocol, my name provides a way to distinguish this special instance from all other Forms.

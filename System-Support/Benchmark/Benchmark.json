@@ -1,0 +1,10 @@
+{
+  "class": "Benchmark",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "dummy verboseTranscript reporting reportStream fromList",
+  "classInstanceVariables": "",
+  "classVariables": "Outputs StandardTests",
+  "poolDictionaries": "",
+  "category": "System-Support",
+}

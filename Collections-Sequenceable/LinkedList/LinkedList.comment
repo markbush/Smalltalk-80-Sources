@@ -1,0 +1,2 @@
+I implement ordered collections using a chain of elements.  I can be initialized using
+	LinkedList with: Link new

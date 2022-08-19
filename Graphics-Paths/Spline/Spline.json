@@ -1,0 +1,10 @@
+{
+  "class": "Spline",
+  "superclass": "Path",
+  "classType": "subclass",
+  "instanceVariables": "derivatives",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Paths",
+}

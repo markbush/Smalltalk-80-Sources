@@ -1,0 +1,2 @@
+associationForClass
+	^self associationFor: class

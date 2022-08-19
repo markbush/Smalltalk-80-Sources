@@ -1,0 +1,10 @@
+{
+  "class": "InstructionStream",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "sender pc",
+  "classInstanceVariables": "",
+  "classVariables": "SpecialConstants",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

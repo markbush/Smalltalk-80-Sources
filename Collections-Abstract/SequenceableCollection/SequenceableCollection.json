@@ -1,0 +1,10 @@
+{
+  "class": "SequenceableCollection",
+  "superclass": "Collection",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Abstract",
+}

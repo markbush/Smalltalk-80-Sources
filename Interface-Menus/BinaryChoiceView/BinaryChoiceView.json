@@ -1,0 +1,10 @@
+{
+  "class": "BinaryChoiceView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "ThumbsDown ThumbsUp",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

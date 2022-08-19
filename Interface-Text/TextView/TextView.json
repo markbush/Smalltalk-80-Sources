@@ -1,0 +1,10 @@
+{
+  "class": "TextView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "partMsg acceptMsg menuMsg",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

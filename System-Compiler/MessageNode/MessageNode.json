@@ -1,0 +1,10 @@
+{
+  "class": "MessageNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "receiver selector precedence special arguments sizes pc",
+  "classInstanceVariables": "",
+  "classVariables": "MacroEmitters MacroSelectors MacroSizers MacroTransformers ThenFlag",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

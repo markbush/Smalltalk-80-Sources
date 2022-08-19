@@ -1,0 +1,10 @@
+{
+  "class": "Message",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "selector args",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

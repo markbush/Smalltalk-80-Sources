@@ -1,0 +1,1 @@
+I scan a stream picking out Smalltalk syntactic tokens.  I look one character ahead.  I put each token found into token and its type (a Symbol) into tokenType.  At the end of stream or a doit symbol, I pretend to see an endless sequence of doits.

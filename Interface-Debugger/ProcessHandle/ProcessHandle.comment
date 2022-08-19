@@ -1,0 +1,2 @@
+A ProcessHandle holds the state of an interrupted process.  It is capable of cutting back
+the process's stack, terminating the process, or causing it to resume again.

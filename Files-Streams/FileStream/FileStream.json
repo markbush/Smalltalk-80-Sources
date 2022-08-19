@@ -1,0 +1,10 @@
+{
+  "class": "FileStream",
+  "superclass": "ExternalStream",
+  "classType": "subclass",
+  "instanceVariables": "page rwmode closed",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "FilePool",
+  "category": "Files-Streams",
+}

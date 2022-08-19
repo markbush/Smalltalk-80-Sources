@@ -1,0 +1,20 @@
+Instance Variables:
+		map		<Array> of new oops indexed by old oops
+		refcts	<ByteArray> encoding refcts and clamping
+		file		<FileStream> for writing vmem image
+		holder	<Stream> of objects created just for the new image
+		writeDict	<Dictionary> of writing selectors for each class
+		maxOop		<Integer> number of objects written in clone
+		specialObjects	<Array> of objects to get first N oops in clone
+		initialProcess	<Process> to resume at startup
+		ot		<FileStream> for writing OT
+		bank	<Integer> high bits of object offest in image
+		addr	<Integer> low bits
+
+The system Tracer is the secret weapon of Smalltalk developers.  Some people think it is an overnight garbage collector.  It is; in fact on a decent machine (heh, heh), it is a coffee-break garbage collector.  But the real value of the tracer is that it allows fundamental changes to be made to the system from within.
+
+Basically, the tracer runs through the system tracing every accessible object, and writing a copy of each object onto a disk image.  It does this carefully enough that the resulting clone can be started up and run, just like a snapshot.  Some care is taken so that objects appear in the same order in the data space as they do in the object table.
+
+The tracer has built-in support for clamping unwanted (or unneeded) classes out of the system.  Use the message writeCloneWithout: for this.  A considerably more powerful clamping mechanism is the message winnowing feature.  It will cull out all unreferenced messages, and then based on THOSE deletions, cull out more and so on.  See the comment in winnow.
+
+Examples of things we have done with the SystemTracer include changing the instruction set of Smalltalk.  For this we define a subclass called Junta which defines a special method for writing CompiledMethods out in the new format.  Then we change the virtual machine and fire up the clone.  Another example is changing the format of FloatingPoint numbers

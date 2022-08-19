@@ -1,0 +1,2 @@
+browseImplementors
+	Smalltalk browseAllImplementorsOf: selector

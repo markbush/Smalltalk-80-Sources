@@ -1,0 +1,10 @@
+{
+  "class": "Project",
+  "superclass": "StringHolder",
+  "classType": "subclass",
+  "instanceVariables": "projectWindows projectChangeSet projectTranscript projectHolder",
+  "classInstanceVariables": "",
+  "classVariables": "CurrentProject",
+  "poolDictionaries": "",
+  "category": "Interface-Projects",
+}

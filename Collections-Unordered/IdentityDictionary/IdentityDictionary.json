@@ -1,0 +1,10 @@
+{
+  "class": "IdentityDictionary",
+  "superclass": "Dictionary",
+  "classType": "variableSubclass",
+  "instanceVariables": "valueArray",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Unordered",
+}

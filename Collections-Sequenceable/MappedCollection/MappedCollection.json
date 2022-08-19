@@ -1,0 +1,10 @@
+{
+  "class": "MappedCollection",
+  "superclass": "Collection",
+  "classType": "subclass",
+  "instanceVariables": "domain map",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Sequenceable",
+}

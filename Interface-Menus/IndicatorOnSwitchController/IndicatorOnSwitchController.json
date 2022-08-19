@@ -1,0 +1,10 @@
+{
+  "class": "IndicatorOnSwitchController",
+  "superclass": "SwitchController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

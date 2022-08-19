@@ -1,0 +1,10 @@
+{
+  "class": "Encoder",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "scopeTable nTemps supered requestor class literalStream selectorSet litIndSet litSet sourceRanges lastTempPos",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

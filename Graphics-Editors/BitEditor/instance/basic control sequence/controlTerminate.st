@@ -1,0 +1,2 @@
+controlTerminate
+	Cursor normal show

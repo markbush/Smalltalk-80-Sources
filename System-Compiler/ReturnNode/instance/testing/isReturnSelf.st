@@ -1,0 +1,2 @@
+isReturnSelf
+	^expr == NodeSelf

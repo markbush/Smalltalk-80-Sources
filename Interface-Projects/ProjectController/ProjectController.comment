@@ -1,0 +1,3 @@
+I am a kind of StringHolderController (a ParagraphEditor that adds the doIt, printIt, accept, and cancel commands).  The commands doIt and printIt are omitted.  I provide one additional menu command
+	enter -- replace the current project by the model, thereby "entering" the door
+			to a new office or work area

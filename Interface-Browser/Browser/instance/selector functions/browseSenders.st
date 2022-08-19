@@ -1,0 +1,2 @@
+browseSenders
+	Smalltalk browseAllCallsOn: selector

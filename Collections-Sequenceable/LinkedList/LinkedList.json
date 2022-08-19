@@ -1,0 +1,10 @@
+{
+  "class": "LinkedList",
+  "superclass": "SequenceableCollection",
+  "classType": "subclass",
+  "instanceVariables": "firstLink lastLink",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Sequenceable",
+}

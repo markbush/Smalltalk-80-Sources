@@ -1,0 +1,2 @@
+isReturnSelf
+	^false

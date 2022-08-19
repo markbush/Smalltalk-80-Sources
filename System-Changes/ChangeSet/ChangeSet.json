@@ -1,0 +1,10 @@
+{
+  "class": "ChangeSet",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "classChanges methodChanges classRemoves reorganizeSystem specialDoIts",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

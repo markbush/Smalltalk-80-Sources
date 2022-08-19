@@ -1,0 +1,2 @@
+beSnapshotFile
+	^self file beSnapshotFile

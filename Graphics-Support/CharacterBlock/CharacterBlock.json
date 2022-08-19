@@ -1,0 +1,10 @@
+{
+  "class": "CharacterBlock",
+  "superclass": "Rectangle",
+  "classType": "subclass",
+  "instanceVariables": "stringIndex character",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

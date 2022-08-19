@@ -1,0 +1,1 @@
+Symbols are Strings which are created uniquely.  Thus, someString asSymbol == someString asSymbol.

@@ -1,0 +1,11 @@
+My instances hold the state of CharacterScanner in addition to the following required only for composition.
+
+Instance Variables
+
+	spaceX
+<Integer>  Left edge of last space scanned.  When line overflows this value is substracted from the rightMargin to determine how much padding is available for justification, centering, etc.
+
+	spaceIndex
+<Integer>  Character index of last space scanned in line.  Installed as stop in the TextLineInterval for the line being composed.
+
+CompositionScanners are used to measure text and determine where line breaks and space padding should occur.

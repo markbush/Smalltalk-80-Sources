@@ -1,0 +1,10 @@
+{
+  "class": "CodeView",
+  "superclass": "TextView",
+  "classType": "subclass",
+  "instanceVariables": "initialSelection",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

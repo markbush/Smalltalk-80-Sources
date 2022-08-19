@@ -1,0 +1,10 @@
+{
+  "class": "SmallInteger",
+  "superclass": "Integer",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "minVal maxVal maxBits maxBytes",
+  "classVariables": "Digitbuffer",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

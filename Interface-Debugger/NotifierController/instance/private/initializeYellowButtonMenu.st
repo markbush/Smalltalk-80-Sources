@@ -1,0 +1,3 @@
+initializeYellowButtonMenu
+	self yellowButtonMenu: NotifierYellowButtonMenu
+		yellowButtonMessages: NotifierYellowButtonMessages

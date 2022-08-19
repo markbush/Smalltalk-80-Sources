@@ -1,0 +1,10 @@
+{
+  "class": "CharacterScanner",
+  "superclass": "BitBlt",
+  "classType": "subclass",
+  "instanceVariables": "lastIndex xTable stopConditions text textStyle leftMargin rightMargin font line runStopIndex spaceCount spaceWidth outputMedium",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

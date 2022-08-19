@@ -1,0 +1,10 @@
+{
+  "class": "PositionableStream",
+  "superclass": "Stream",
+  "classType": "subclass",
+  "instanceVariables": "collection position readLimit",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Streams",
+}

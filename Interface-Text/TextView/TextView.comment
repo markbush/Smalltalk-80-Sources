@@ -1,0 +1,12 @@
+TextView is a "pluggable" view of text.  The notion of pluggable views is an
+experiment in user interface design.  The idea is to provide a view which can be plugged
+onto any object, rather than having to define a new subclass specific to every kind of
+object which needs to be viewed.
+
+The chief mechanism is a set of selectors, which can be thought of as an adaptor to
+convert the generic textView operations (such as yellowButtonMenu) into model-specific
+operations (such as textMenu).
+
+See the protocol 'adaptor' for use of the pluggable selectors.
+See the creation messages in my class for an explication of the various parameters.
+Browse senders of the creation messages in my class for examples in the system.

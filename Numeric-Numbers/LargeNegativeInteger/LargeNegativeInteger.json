@@ -1,0 +1,10 @@
+{
+  "class": "LargeNegativeInteger",
+  "superclass": "Integer",
+  "classType": "variableByteSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "MinHi",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

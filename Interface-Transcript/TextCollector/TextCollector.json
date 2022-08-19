@@ -1,0 +1,10 @@
+{
+  "class": "TextCollector",
+  "superclass": "StringHolder",
+  "classType": "subclass",
+  "instanceVariables": "entryStream",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Transcript",
+}

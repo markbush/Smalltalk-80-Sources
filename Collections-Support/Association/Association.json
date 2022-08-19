@@ -1,0 +1,10 @@
+{
+  "class": "Association",
+  "superclass": "LookupKey",
+  "classType": "subclass",
+  "instanceVariables": "value",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Support",
+}

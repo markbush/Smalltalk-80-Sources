@@ -1,0 +1,10 @@
+{
+  "class": "ContextInspector",
+  "superclass": "Inspector",
+  "classType": "subclass",
+  "instanceVariables": "tempNames",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Inspector",
+}

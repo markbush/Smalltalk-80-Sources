@@ -1,0 +1,10 @@
+{
+  "class": "InfiniteForm",
+  "superclass": "DisplayObject",
+  "classType": "subclass",
+  "instanceVariables": "patternForm",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

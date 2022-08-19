@@ -1,0 +1,10 @@
+{
+  "class": "ProcessorScheduler",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "quiescentProcessLists activeProcess",
+  "classInstanceVariables": "",
+  "classVariables": "BackgroundProcess HighIOPriority LowIOPriority SystemBackgroundPriority SystemRockBottomPriority TimingPriority UserBackgroundPriority UserInterruptPriority UserSchedulingPriority",
+  "poolDictionaries": "",
+  "category": "Kernel-Processes",
+}

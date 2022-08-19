@@ -1,0 +1,10 @@
+{
+  "class": "TextController",
+  "superclass": "ParagraphEditor",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

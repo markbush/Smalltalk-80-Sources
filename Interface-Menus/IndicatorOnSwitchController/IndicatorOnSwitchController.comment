@@ -1,0 +1,1 @@
+I am a SwitchController that has its View (a SwitchView) highlighted while the model (a Switch) handles the messages it is sent.

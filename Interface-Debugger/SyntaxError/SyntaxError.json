@@ -1,0 +1,10 @@
+{
+  "class": "SyntaxError",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "class badText processHandle",
+  "classInstanceVariables": "",
+  "classVariables": "TextMenu",
+  "poolDictionaries": "",
+  "category": "Interface-Debugger",
+}

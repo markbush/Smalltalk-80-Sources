@@ -1,0 +1,29 @@
+Instance Variables:
+
+	xTable	<Array>  Of left x-coordinate of character in glyphs.
+
+	glyphs	<Form>  Containing bits representing the characters.
+
+	name	<String>  Name of this font.
+
+	stopConditions	<Array>  Of selectors to be performed in scanning text.
+
+	type	<Integer>  Code for strike fonts files.
+
+	minAscii, maxAscii	<Integer>  Giving range supported by this font.
+
+	maxWidth	<Integer>  Width of widest char. Not presently used, but may be for font modification.
+
+	strikeLength	<Integer>  Not used.
+
+	ascent, descent	<Integer>  Max extent of chars above and below the baseline
+
+	xOffset	<Integer>  For kerning (not presently used)
+
+	raster	<Integer>  Specifies layout of the glyphs form
+
+	subscript, superscript	<Integer>  Further vertical offset relative to baseline
+
+	emphasis	<Integer>  code for synthetic bold, italic, underline, strike-out
+
+StrikeFonts are a compact encoding of a set of Forms corresponding to characters in the ASCII character set.  All the forms are placed side by side in a large form whose height is the font height, and whose width is the sum of all the character widths.  The xTable gives the left-x coordinates of the subForms corresponding to the characters.

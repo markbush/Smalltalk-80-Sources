@@ -1,0 +1,10 @@
+{
+  "class": "AssignmentNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "variable value",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

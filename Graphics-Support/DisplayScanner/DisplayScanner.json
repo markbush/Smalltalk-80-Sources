@@ -1,0 +1,10 @@
+{
+  "class": "DisplayScanner",
+  "superclass": "CharacterScanner",
+  "classType": "subclass",
+  "instanceVariables": "lineY runX",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

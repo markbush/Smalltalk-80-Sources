@@ -1,0 +1,2 @@
+I represent a change to a class, other than a class definition.  Possible types are:
+	comment, initialize, inst vars for, rename, rename to

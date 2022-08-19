@@ -1,0 +1,10 @@
+{
+  "class": "TextStyle",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "fontArray lineGrid baseline alignment firstIndent restIndent rightIndent tabsArray marginTabsArray outputMedium",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

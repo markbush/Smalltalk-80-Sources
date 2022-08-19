@@ -1,0 +1,9 @@
+I represent a ParagraphEditor for a single paragraph of text, omitting alignment commands.  I provide items in the yellow button menu so that the text selection can be evaluated and so that the contents of the model can be stored or restored.
+	doIt -- evaluate the text selection as an expression
+	printIt -- same as doIt but insert a description of the result after the selection
+	accept -- store the contents of the StringHolder into the model
+	cancel -- store the contents of the model into the StringHolder
+
+Instance Variables:
+	isLockingOn	<Boolean> true if the view has been editted so that it should not
+					be closed without warning the user.

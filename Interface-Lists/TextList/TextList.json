@@ -1,0 +1,10 @@
+{
+  "class": "TextList",
+  "superclass": "Paragraph",
+  "classType": "subclass",
+  "instanceVariables": "list",
+  "classInstanceVariables": "",
+  "classVariables": "ListStyle",
+  "poolDictionaries": "",
+  "category": "Interface-Lists",
+}

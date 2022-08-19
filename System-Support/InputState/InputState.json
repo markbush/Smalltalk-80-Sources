@@ -1,0 +1,10 @@
+{
+  "class": "InputState",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "x y bitState lshiftState rshiftState ctrlState lockState metaState keyboardQueue deltaTime baseTime timeProtect",
+  "classInstanceVariables": "",
+  "classVariables": "BitMax BitMin CtrlKey InputProcess InputSemaphore LockKey LshiftKey RshiftKey",
+  "poolDictionaries": "",
+  "category": "System-Support",
+}

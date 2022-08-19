@@ -1,0 +1,4 @@
+I represent a StringHolder into which text can also be gathered by sending messages using Stream protocol.
+
+Instance Variables
+	entryStream	<WriteStream>

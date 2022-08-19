@@ -1,0 +1,10 @@
+{
+  "class": "Paragraph",
+  "superclass": "DisplayText",
+  "classType": "subclass",
+  "instanceVariables": "clippingRectangle compositionRectangle destinationForm rule mask marginTabsLevel firstIndent restIndent rightIndent lines lastLine outputMedium",
+  "classInstanceVariables": "",
+  "classVariables": "DefaultCompositionRectangle",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Display Objects",
+}

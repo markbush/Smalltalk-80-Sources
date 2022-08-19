@@ -1,0 +1,10 @@
+{
+  "class": "CompositionScanner",
+  "superclass": "CharacterScanner",
+  "classType": "subclass",
+  "instanceVariables": "spaceX spaceIndex",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

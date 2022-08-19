@@ -1,0 +1,10 @@
+{
+  "class": "DisplayTextView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "rule mask editParagraph centered",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Views",
+}

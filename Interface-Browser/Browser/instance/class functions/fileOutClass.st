@@ -1,0 +1,2 @@
+fileOutClass
+	self nonMetaClass fileOut

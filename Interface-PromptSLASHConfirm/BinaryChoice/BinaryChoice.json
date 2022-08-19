@@ -1,0 +1,10 @@
+{
+  "class": "BinaryChoice",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "trueAction falseAction actionTaken",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Prompt/Confirm",
+}

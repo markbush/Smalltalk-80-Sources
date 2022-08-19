@@ -1,0 +1,1 @@
+A FilePage from an AltoFile consists of an address (2 words), a label (8 words) and data (512 bytes).  The instance variable "page" is a ByteArray which contains first the label and then the data.

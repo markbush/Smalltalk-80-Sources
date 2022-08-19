@@ -1,0 +1,10 @@
+{
+  "class": "DisplayMedium",
+  "superclass": "DisplayObject",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

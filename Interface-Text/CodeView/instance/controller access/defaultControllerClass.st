@@ -1,0 +1,2 @@
+defaultControllerClass
+	^ CodeController

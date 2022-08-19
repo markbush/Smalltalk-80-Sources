@@ -1,0 +1,6 @@
+Instance Variables:
+		suspendedContext	<Context> activeContext at time of process suspension
+		priority				<Integer> partial indication of relative scheduling
+		myList				<LinkedList> on which I am suspended
+
+I represent an independent path of control in the system.  This path of control may be stopped (by sending me the message suspend) in such a way that it can later be restarted (by sending me the message restore).  When any one of several paths of control can be advanced, the single instance of ProcessorScheduler named Processor determines which one will actually be advanced partly using my priority.

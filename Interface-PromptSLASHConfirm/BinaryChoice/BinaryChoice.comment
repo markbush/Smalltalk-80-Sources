@@ -1,0 +1,6 @@
+I represent a true/false (yes/no) choice.  My instances have two possible actions they can take, depending on which choice is made.
+
+Instance variables
+	trueAction	<BlockContext>	sequence of expression to do if positive choice is made
+	falseAction	<BlockContext>	sequence of expression to do if negative choice is made
+	actionTaken	<Boolean> was the action, true or false, already taken

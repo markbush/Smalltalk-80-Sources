@@ -1,0 +1,10 @@
+{
+  "class": "WriteStream",
+  "superclass": "PositionableStream",
+  "classType": "subclass",
+  "instanceVariables": "writeLimit",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Streams",
+}

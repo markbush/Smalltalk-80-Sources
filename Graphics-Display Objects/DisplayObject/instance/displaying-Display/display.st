@@ -1,0 +1,2 @@
+display
+	self displayOn: Display

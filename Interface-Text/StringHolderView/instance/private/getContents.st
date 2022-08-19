@@ -1,0 +1,2 @@
+getContents
+	^model contents

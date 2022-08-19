@@ -1,0 +1,9 @@
+I represent a view that has a label above its top left corner.  The text in the label identifies the kind of view.  In addition to a label, I add control over the maximum and minimum size of the display box of my instance.  My default controller is StandardSystemController.  The elements of ScheduledControllers, the sole instance of ControlManager, usually contain controllers for instances of me.
+
+Instance Variables:
+	labelFrame				<Quadrangle>
+	labelText				<Paragraph>
+	isLabelComplemented	<Boolean> true if the label is complemented
+	savedSubViews			<Array> of Views
+	minimumSize			<Point> representing minimum width and height
+	maximumSize			<Point> representing maximum width and height

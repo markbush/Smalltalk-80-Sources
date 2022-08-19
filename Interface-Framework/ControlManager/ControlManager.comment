@@ -1,0 +1,7 @@
+I represent the top level control over scheduling which controller of a view on the screen the user is actively using.  ScheduledControllers is the global reference to an instance of me, the one attached to the Project currently being used.
+
+Instance Variables:
+	scheduledControllers	<OrderedCollection> of Controllers, usually ScheduledControllers
+	activeController		<Controller> usually a ScheduledController
+	activeControllerProcess	<Process>
+	screenController 	<ScreenController> also appears in ScheduledControllers

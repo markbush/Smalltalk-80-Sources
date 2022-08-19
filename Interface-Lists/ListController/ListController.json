@@ -1,0 +1,10 @@
+{
+  "class": "ListController",
+  "superclass": "ScrollController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Lists",
+}

@@ -1,0 +1,10 @@
+{
+  "class": "SelectionInListView",
+  "superclass": "ListView",
+  "classType": "subclass",
+  "instanceVariables": "itemList printItems oneItem partMsg initialSelectionMsg changeMsg listMsg menuMsg",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Lists",
+}

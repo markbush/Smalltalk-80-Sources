@@ -1,0 +1,2 @@
+release
+	contentsArray _ nil

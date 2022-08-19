@@ -1,0 +1,10 @@
+{
+  "class": "VariableNode",
+  "superclass": "LeafNode",
+  "classType": "subclass",
+  "instanceVariables": "name isArg",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

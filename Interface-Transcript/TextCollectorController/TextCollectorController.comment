@@ -1,0 +1,1 @@
+I am a kind of StringHolderController (a ParagraphEditor) that adds the doIt, printIt, accept, and cancel commands.  I do not change the yellow button menu.  I do add methods for accepting text that was generated from Stream-like messages to the model, a TextCollector

@@ -1,0 +1,10 @@
+{
+  "class": "Compiler",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "sourceStream requestor class context",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

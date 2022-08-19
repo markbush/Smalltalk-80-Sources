@@ -1,0 +1,10 @@
+{
+  "class": "MethodContext",
+  "superclass": "ContextPart",
+  "classType": "variableSubclass",
+  "instanceVariables": "method receiverMap receiver",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

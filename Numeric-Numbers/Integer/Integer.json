@@ -1,0 +1,10 @@
+{
+  "class": "Integer",
+  "superclass": "Number",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

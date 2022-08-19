@@ -1,0 +1,1 @@
+I am a kind of ListController that blocks new selections if the model is locked--i.e., has been changed in some way that still requires completion.

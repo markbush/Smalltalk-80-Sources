@@ -1,0 +1,10 @@
+{
+  "class": "StandardSystemView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "labelFrame labelText isLabelComplemented savedSubViews minimumSize maximumSize",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Support",
+}

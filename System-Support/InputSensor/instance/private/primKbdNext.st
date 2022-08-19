@@ -1,0 +1,2 @@
+primKbdNext
+	^CurrentInputState keyboardNext

@@ -1,0 +1,10 @@
+{
+  "class": "CRFillInTheBlankController",
+  "superclass": "FillInTheBlankController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Prompt/Confirm",
+}

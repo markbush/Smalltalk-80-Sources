@@ -1,0 +1,10 @@
+{
+  "class": "CascadeNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "receiver messages",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

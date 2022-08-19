@@ -1,0 +1,13 @@
+I am an abstract representation of a collection of FilePages and a reference to a FileDirectory which contains me.  My instance is usually uniquely identified both by an alphanumeric name (a String) and a serial number (a ByteArray).
+
+According to this Smalltalk model, a File System consists of coordinated subclass definitions for FilePage, File, and FileDirectory.  User programs typically do not directly access a File or its FilePages but access it as a sequence of characters or bytes through a FileStream.
+
+Instance Variables:
+	fileName		<String>
+	serialNumber	<ByteArray>
+	fileDirectory	<FileDirectory>
+	lastPageNumber	<Integer>
+	binary			<Boolean> indicates binary or textual contents
+	readWrite		<Integer> tells if writing is allowed
+	error			<Symbol> an error condition
+	pageCache		not currently used.

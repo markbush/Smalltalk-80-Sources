@@ -1,0 +1,10 @@
+{
+  "class": "ClassCommentChange",
+  "superclass": "ClassOtherChange",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

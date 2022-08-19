@@ -1,0 +1,2 @@
+I get used two different ways in the system.
+In the user interface I mainly hold onto some text which is viewed by some form of ParagraphEditor.  However, as a DisplayObject, I may need to display efficiently, so form caches the bits for that purpose.

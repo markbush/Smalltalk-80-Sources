@@ -1,0 +1,5 @@
+Instance Variables:
+	class		<ClassDescription> the class being read in
+	category	<String> the category for methods being read in
+
+I am created during fileIn in response to "class methodsFor: cat" message.  I subsequently scan consecutive "chunks" from the fileIn stream and ask class to compile them in this category.  I continue in this way until an empty chunk is found.

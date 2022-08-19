@@ -1,0 +1,10 @@
+{
+  "class": "Delay",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "delayDuration resumptionTime delaySemaphore delayInProgress",
+  "classInstanceVariables": "",
+  "classVariables": "AccessProtect ActiveDelay SuspendedDelays TimingSemaphore",
+  "poolDictionaries": "",
+  "category": "Kernel-Processes",
+}

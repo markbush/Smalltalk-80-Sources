@@ -1,0 +1,5 @@
+I an a FileModel that can be viewed as a filtered ListMenu of file names as well as the text of a file.
+
+	Instance Variables
+	list				<OrderedCollection> of file names
+	myPatytern		<String> represtenting the filter to select the list

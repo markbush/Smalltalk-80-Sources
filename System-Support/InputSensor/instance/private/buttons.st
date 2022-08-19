@@ -1,0 +1,2 @@
+buttons
+	^self primMouseButtons

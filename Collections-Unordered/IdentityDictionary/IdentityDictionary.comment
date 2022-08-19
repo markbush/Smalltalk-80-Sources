@@ -1,0 +1,1 @@
+I am a subclass of Dictionary in which the lookup is done using == rather than =.  I am represented as two parallel ordered collections of keys and values, rather than as a single collection of associations.

@@ -1,0 +1,10 @@
+{
+  "class": "ArrayedCollection",
+  "superclass": "SequenceableCollection",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Abstract",
+}

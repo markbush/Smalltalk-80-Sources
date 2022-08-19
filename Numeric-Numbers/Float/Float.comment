@@ -1,0 +1,6 @@
+I represent floating-point numbers in IEEE 32-bit format.
+
+These floating-point numbers are good for about 8 or 9 digits of accuracy, and the range is between plus and minus 10^32.
+Here are some valid floating-point examples:
+	8.0   13.3   0.3   2.5e6   1.27e-30  1.27e-31 -12.987654e12
+Mainly: no imbedded blanks, little e for tens power, and a digit on both sides of the decimal point.

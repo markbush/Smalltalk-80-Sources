@@ -1,0 +1,10 @@
+{
+  "class": "Link",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "nextLink",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Support",
+}

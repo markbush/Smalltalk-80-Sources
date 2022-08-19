@@ -1,0 +1,10 @@
+{
+  "class": "AlwaysAcceptCodeController",
+  "superclass": "CodeController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

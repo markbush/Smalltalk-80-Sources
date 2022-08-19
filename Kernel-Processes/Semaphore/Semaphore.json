@@ -1,0 +1,10 @@
+{
+  "class": "Semaphore",
+  "superclass": "LinkedList",
+  "classType": "subclass",
+  "instanceVariables": "excessSignals",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Processes",
+}

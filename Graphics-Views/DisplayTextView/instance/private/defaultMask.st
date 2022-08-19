@@ -1,0 +1,2 @@
+defaultMask
+	^Form black

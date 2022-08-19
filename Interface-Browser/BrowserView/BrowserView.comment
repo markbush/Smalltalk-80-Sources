@@ -1,0 +1,1 @@
+I am a StandardSystemView that provides initialization methods (messages to myself) to create and schedule the various system browsers:  System Browser, System Category Browser, Class Browser, Message Category Browser, Message Browser.

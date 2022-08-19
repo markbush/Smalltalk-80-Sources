@@ -1,0 +1,1 @@
+My elements can only be integers between 0 and 255.  The access messages at: and at:put: are handled primitively in class Object

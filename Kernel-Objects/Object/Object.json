@@ -1,0 +1,10 @@
+{
+  "class": "Object",
+  "superclass": "nil",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "DependentsFields ErrorRecursion",
+  "poolDictionaries": "",
+  "category": "Kernel-Objects",
+}

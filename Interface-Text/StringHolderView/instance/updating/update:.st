@@ -1,0 +1,2 @@
+update: aSymbol
+	self updateDisplayContents

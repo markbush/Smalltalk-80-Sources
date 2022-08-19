@@ -1,0 +1,2 @@
+isUnlocked
+	^true

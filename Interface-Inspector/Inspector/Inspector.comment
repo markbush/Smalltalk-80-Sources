@@ -1,0 +1,6 @@
+I represent a query path into the internal representation of an object.  The value of fields
+can be inspected by selecting the field name, and can be changed using 'accept'.
+
+Instance Variables:
+	object		any object to be queried
+	field		<String> name of field being viewed

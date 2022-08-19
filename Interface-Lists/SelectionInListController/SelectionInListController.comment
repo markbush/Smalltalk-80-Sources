@@ -1,0 +1,5 @@
+This controllers is designed to support the pluggable SelectionInListViews (q.v.).
+As its operation is parameterized in the view, it must ask its view for current
+selection and for menu options.  The tighter controller/view relationship appropriate to
+pluggable viewing has not yet fully matured.  Note that control is not accepted
+if the view is empty.

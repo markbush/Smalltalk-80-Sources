@@ -1,0 +1,7 @@
+The BitBlt operation copies bits from one rectangle within a Form (source) to another (dest).  The result is stored according to a combination rule which specifies one of the sixteen possibilities for how white and black should be combined.
+
+If halftoneForm is not nil, it is a halftone screen which masks (is ANDed with) the source during the operation.  Halftones are 16x16 bit Forms which are repeated indefinitely as needed by the BitBlt operation. with the two forms and a halftoneForm.
+
+If sourceForm is nil, the halftone is taken by itself to be the source, as for filling with a constant pattern.
+
+The clipping parameters specify a rectangle in the destination outside of which BitBlt will not make any changes

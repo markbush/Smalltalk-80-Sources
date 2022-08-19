@@ -1,0 +1,10 @@
+{
+  "class": "AltoFilePage",
+  "superclass": "FilePage",
+  "classType": "subclass",
+  "instanceVariables": "address",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "AltoFilePool",
+  "category": "Files-Xerox Alto",
+}

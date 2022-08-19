@@ -1,0 +1,4 @@
+I am a view of interrupted machine state.  The interruption occurred in order to notify the user that some action to be taken is dangerous, perhaps because it is not recoverable. I contain one subView in which the notification information is displayed.  My default controller is NotifierController.
+
+Instance Variables:
+	contents	 <String> the notification information

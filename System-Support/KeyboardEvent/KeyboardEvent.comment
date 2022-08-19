@@ -1,0 +1,5 @@
+I represent a keyboard event consisting of a non-meta key being struck plus the state of the meta keys at that moment.  Only InputState creates instances of me.
+
+Instance Variables:
+		keyCharacter "<Integer> non-meta key character"
+		metaState "<Integer> combined state of meta keys"

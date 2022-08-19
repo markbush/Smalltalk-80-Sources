@@ -1,0 +1,10 @@
+{
+  "class": "Character",
+  "superclass": "Magnitude",
+  "classType": "subclass",
+  "instanceVariables": "value",
+  "classInstanceVariables": "",
+  "classVariables": "CharacterTable",
+  "poolDictionaries": "",
+  "category": "Collections-Text",
+}

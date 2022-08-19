@@ -1,0 +1,10 @@
+{
+  "class": "MethodNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "selectorOrFalse precedence arguments block literals primitive encoder temporaries",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

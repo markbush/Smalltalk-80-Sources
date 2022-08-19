@@ -1,0 +1,2 @@
+< aLookupKey
+	^key < aLookupKey key

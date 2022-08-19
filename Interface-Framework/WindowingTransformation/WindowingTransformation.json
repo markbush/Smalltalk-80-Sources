@@ -1,0 +1,10 @@
+{
+  "class": "WindowingTransformation",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "scale translation",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Framework",
+}

@@ -1,0 +1,2 @@
+fileOutCategory
+	organization fileOutCategory: category

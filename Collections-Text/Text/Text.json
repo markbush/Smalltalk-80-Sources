@@ -1,0 +1,10 @@
+{
+  "class": "Text",
+  "superclass": "ArrayedCollection",
+  "classType": "subclass",
+  "instanceVariables": "string runs",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Collections-Text",
+}

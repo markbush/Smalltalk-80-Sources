@@ -1,0 +1,10 @@
+{
+  "class": "StandardSystemController",
+  "superclass": "MouseMenuController",
+  "classType": "subclass",
+  "instanceVariables": "status",
+  "classInstanceVariables": "",
+  "classVariables": "ScheduledBlueButtonMenu ScheduledBlueButtonMessages",
+  "poolDictionaries": "",
+  "category": "Interface-Support",
+}

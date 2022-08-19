@@ -1,0 +1,1 @@
+RunArrays provide space-efficient storage of data which tends to be constant over long runs of the possible indices.  runs is an array of Integers, and each indicates the number of indices over which the corresponding value (in values) is constant.

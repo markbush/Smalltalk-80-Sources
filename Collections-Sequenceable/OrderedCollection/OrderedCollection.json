@@ -1,0 +1,10 @@
+{
+  "class": "OrderedCollection",
+  "superclass": "SequenceableCollection",
+  "classType": "variableSubclass",
+  "instanceVariables": "firstIndex lastIndex",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Sequenceable",
+}

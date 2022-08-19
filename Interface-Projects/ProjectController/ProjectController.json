@@ -1,0 +1,10 @@
+{
+  "class": "ProjectController",
+  "superclass": "StringHolderController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "ProjectYellowButtonMenu ProjectYellowButtonMessages",
+  "poolDictionaries": "",
+  "category": "Interface-Projects",
+}

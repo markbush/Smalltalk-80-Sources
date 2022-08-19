@@ -1,0 +1,14 @@
+I represent the state of the user input devices.
+
+Instance Variables:
+		x  <Integer> mouse X location
+		y  <Integer> mouse Y location
+		bitState  <Integer> mouse button and keyset state
+		lshiftState  <1 or 0> state of left shift key
+		rshiftState  <1 or 0> state of right shift key
+		ctrlState  <2 or 0> state of ctrl key
+		lockState  <4 or 0> state of shift-lock key
+		metaState  <Integer> combined state of the meta keys
+		keyboardQueue  <SharedQueue> of keyboard characters
+		deltaTime  <Integer> sampling ticks since last setting of baseTime
+		baseTime  <Integer> millisecond timer at last resync

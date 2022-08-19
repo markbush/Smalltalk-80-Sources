@@ -1,0 +1,10 @@
+{
+  "class": "Change",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "file position",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

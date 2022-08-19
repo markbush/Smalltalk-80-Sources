@@ -1,0 +1,10 @@
+{
+  "class": "LargePositiveInteger",
+  "superclass": "Integer",
+  "classType": "variableByteSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "MaxHi",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

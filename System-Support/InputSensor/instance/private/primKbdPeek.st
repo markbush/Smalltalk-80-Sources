@@ -1,0 +1,2 @@
+primKbdPeek
+	^CurrentInputState keyboardPeek

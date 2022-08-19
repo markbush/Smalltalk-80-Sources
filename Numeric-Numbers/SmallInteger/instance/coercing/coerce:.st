@@ -1,0 +1,2 @@
+coerce: n
+	^n truncated

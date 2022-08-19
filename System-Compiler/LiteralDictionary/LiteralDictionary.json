@@ -1,0 +1,10 @@
+{
+  "class": "LiteralDictionary",
+  "superclass": "Dictionary",
+  "classType": "variableSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

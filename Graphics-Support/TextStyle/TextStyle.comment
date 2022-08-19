@@ -1,0 +1,33 @@
+TextStyle is the repository of information which may be shared by a number of paragraphs.  What values it contains are still the subject of some experimentation and experience.  It presently is used for both display and printing operations.
+
+Instance Variables:
+	fontArray
+<Array>  A collection of fonts available to the paragraph.  These may be either StrikeFonts or PressFonts.  The emphasis portion of a Text returns a value for indexing the font.
+
+	lineGrid
+<Integer>  The amount to be added to the top of a line to find the top of the next line.  Will frequently be the greatest height in the fonts in fontArray.
+
+	baseline
+<Integer>  The amount to be added to the top of a line to find the baseline of the line.  The baseline is the point from which the ascent of a font should rise.
+
+	alignment
+<Integer>  Indicates the mode for first level placement from the margins
+	-- 0=left flush, 1=centered, 2=right flush, 3=justified.
+
+	firstIndent
+<Integer>  Amount to inset from the left margin for the first line of a paragraph.  Initial value for paragraph associated with this TextStyle.
+
+	restIndent
+<Integer>  Amount to inset from the left margin for all but the first line of a paragraph.  Initial value for paragraph associated with this TextStyle.
+
+	rightIndent
+<Integer>  Amount to inset from the right margin for all the lines of the paragraph.  Initial value for paragraph associated with this TextStyle.
+
+	tabsArray
+<Array>  Tab stops.  Values are relative to the left margin of the paragraph.
+
+	marginTabsArray
+<Array>  Each value in the array is a tuple indicating an inset from the left and right margin of this paragraph.  Allows for inset paragraphs.
+
+	outputMedium
+<Symbol>  Currently only #Display.  Allows for use of TextStyle in both display and printing mode.

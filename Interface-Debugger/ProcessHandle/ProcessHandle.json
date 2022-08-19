@@ -1,0 +1,10 @@
+{
+  "class": "ProcessHandle",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "process controller interrupted resumeContext proceedValue",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Debugger",
+}

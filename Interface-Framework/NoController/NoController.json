@@ -1,0 +1,10 @@
+{
+  "class": "NoController",
+  "superclass": "Controller",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Framework",
+}

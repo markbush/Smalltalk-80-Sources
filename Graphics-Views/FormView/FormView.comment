@@ -1,0 +1,3 @@
+This class has as its model a Form.  It is used mainly
+			to allow display of Forms on the display screen in the
+			model-view-controller metaphor.

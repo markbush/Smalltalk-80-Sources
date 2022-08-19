@@ -1,0 +1,24 @@
+My instances are intended to be components in a  structured picture.  Each View in the structured picture can contain other Views as sub-components.  These sub-components are called subViews.  A View can be a subView of only one View.  This View is called its superView.  The set of Views in a structured picture forms a hierarchy.  The one View in the hierarchy that has no superView is called the topView of the structured picture.  A View in a structured picture with no subViews is called a bottom View.  A View and all of its subViews, and all of their subViews and so on, are treated as a unit in many operations on the View.  For example, if a View is displayed, all of its subViews are displayed as well.  There are several catagories of operations that can be performed on a View.  Among these are the following.
+	1.	Adding subViews to a View.
+	2.	Positioning subViews within a View.
+	3.	Deleting subViews from a View.
+	4.	Transforming a View.
+	5.	Displaying a View.
+
+Each View has its own coordinate system.   In order to change from one coordinate system to another, each View has two transformations associated with it.  The local transformation is a WindowingTransformation that maps objects in the coordinate system of the View to objects in the coordinate system of the superView of the View.  The displayTransformation is a WindowingTransformation that maps objects in the coordinate system of the View to objects in the display screen coordinate system.
+
+The part of the space that is to be made visible is represented by the window of the View.  The window of a View is a Rectangle expressed in the coordinate system of the View.  The area occupied by a View in the coordinate system of its superView is called its viewport.  The viewport of a View is its window transformed by its local transformation.  The region of the display screen occupied by a View is called its displayBox.  The display box of a View can include a border.  The width of the border expressed in display screen coordinates is called the border width of the View.  The color of the border is called the border color.  The region of the display box of a View excluding the border is called the inset display box.  The color of the inset display box is called the inside color of the View.
+
+model - any object
+controller - <Controller>, #NoControllerAllowed, or nil
+superView - <View>, or nil
+subViews - <OrderedCollection> of Views
+transformation - <WindowingTransformation>
+viewport - <Rectangle> (in superView coordinates), or nil.
+window - <Rectangle> (in View coordinates), or nil.
+displayTransformation - <WindowingTransformation>, or nil.
+insetDisplayBox - <Rectangle> (in display screen coordinates), or nil.
+borderWidth - <Rectangle> (display screen unit) or 0 (meaning no border).
+borderColor - <Form>
+insideColor - <Form>, or nil (meaning transparent)
+boundingBox - <Rectangle> (in View coordinates), or nil

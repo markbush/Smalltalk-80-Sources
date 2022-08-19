@@ -1,0 +1,10 @@
+{
+  "class": "ParagraphEditor",
+  "superclass": "ScrollController",
+  "classType": "subclass",
+  "instanceVariables": "paragraph startBlock stopBlock beginTypeInBlock emphasisHere initialText selectionShowing",
+  "classInstanceVariables": "",
+  "classVariables": "CurrentSelection Keyboard TextEditorYellowButtonMenu TextEditorYellowButtonMessages UndoSelection",
+  "poolDictionaries": "TextConstants",
+  "category": "Interface-Text",
+}

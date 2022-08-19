@@ -1,0 +1,10 @@
+{
+  "class": "LookupKey",
+  "superclass": "Magnitude",
+  "classType": "subclass",
+  "instanceVariables": "key",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Support",
+}

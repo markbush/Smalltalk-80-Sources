@@ -1,0 +1,21 @@
+Instance Variables
+
+	characterPoint
+<Point>  Used in character location domain.  The topLeft of the character to be returned in a CharacterBlock.
+
+	characterIndex
+<Integer>  Used in character location domain.  The index in the stylizedString of the character to be returned in a CharacterBlock.
+
+	lastCharacter
+<Character>  Used in character location domain.  The character to be returned in a CharacterBlock.
+
+	lastCharacterExtent
+<Point>  Used in character location domain.  The extent of the character to be returned in a CharacterBlock.  The height is usually the stringStyle*s lineGrid.
+
+	lastSpaceOrTabExtent
+<Point>  Used in character location domain.  If the lastCharacter is a space or a tab, this will be its extent, an unexpected value when justification is turned on, and a variable value in the case of tab no matter what the alignment value is.
+
+	nextLeftMargin
+<Integer>  When, as in the case of cr, the left margin of the succeeding line is what is desired, this value, known to the paragraph is needed.  Since the paragraph is not available to the stop conditions, this value is set when the line of the character is discovered and before access to the paragraph is lost.
+
+CharacterBlockScanners are used to scan text to compute the CharacterBlock for a character specified by its index in the text or its proximity to the cursor location

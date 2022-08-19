@@ -1,0 +1,10 @@
+{
+  "class": "Parser",
+  "superclass": "Scanner",
+  "classType": "subclass",
+  "instanceVariables": "here hereType hereMark prevToken prevMark encoder requestor parseNode failBlock lastTempMark correctionDelta",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

@@ -1,0 +1,4 @@
+Instance Variables:
+	stackp	<Integer> indicating the offset of the top of my temporary value stack
+
+To the instruction parsing ability of InstructionStream I add the actual semantics for execution.  The execution state is stored in my subclasses indexable fields, which store temporary variables and a stack of values used in evaluating expressions.  The actual semantics of execution can be found in my category "simulator", which exactly parallels the operation of the Smalltalk machine itself.

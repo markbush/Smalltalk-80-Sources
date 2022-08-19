@@ -1,0 +1,10 @@
+{
+  "class": "StringHolder",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "contents isLocked",
+  "classInstanceVariables": "",
+  "classVariables": "Workspace",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

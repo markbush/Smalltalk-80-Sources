@@ -1,0 +1,10 @@
+{
+  "class": "FormMenuView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "BorderForm FormButtons SpecialBorderForm",
+  "poolDictionaries": "",
+  "category": "Graphics-Editors",
+}

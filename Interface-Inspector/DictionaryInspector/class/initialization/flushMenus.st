@@ -1,0 +1,2 @@
+flushMenus
+	DictListMenu _ nil

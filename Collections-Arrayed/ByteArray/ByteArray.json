@@ -1,0 +1,10 @@
+{
+  "class": "ByteArray",
+  "superclass": "ArrayedCollection",
+  "classType": "variableByteSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Arrayed",
+}

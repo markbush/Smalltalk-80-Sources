@@ -1,0 +1,10 @@
+{
+  "class": "TextLineInterval",
+  "superclass": "Interval",
+  "classType": "subclass",
+  "instanceVariables": "internalSpaces paddingWidth",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

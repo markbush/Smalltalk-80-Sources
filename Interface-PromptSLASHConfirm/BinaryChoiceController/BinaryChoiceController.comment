@@ -1,0 +1,1 @@
+My instances assume that their model can carry out some action only once--that is, make a selection only once.  Control is given up if the model responds true to the message actionTaken.

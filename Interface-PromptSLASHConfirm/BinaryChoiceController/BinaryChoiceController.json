@@ -1,0 +1,10 @@
+{
+  "class": "BinaryChoiceController",
+  "superclass": "Controller",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Prompt/Confirm",
+}

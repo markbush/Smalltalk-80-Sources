@@ -1,0 +1,10 @@
+{
+  "class": "AltoFileDirectory",
+  "superclass": "FileDirectory",
+  "classType": "subclass",
+  "instanceVariables": "dirFile bitsFile diskPages totalPages nSectors",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "AltoFilePool",
+  "category": "Files-Xerox Alto",
+}

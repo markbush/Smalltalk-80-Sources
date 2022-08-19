@@ -1,0 +1,9 @@
+I am a Controller that modifies the scheduling of user activities so that the three mouse buttons can be used to make selections or display menus.  The menu items are unary messages to the value of sending my instance the message menuMessageReceiver.
+
+Instance Variables:
+	redButtonMenu			<PopUpMenu>
+	redButtonMessages		<Array> of Symbols, unary messages
+	yellowButtonMenu		<PopUpMenu>
+	yellowButtonMessages	<Array> of Symbols, unary messages
+	blueButtonMenu		<PopUpMenu>
+	blueButtonMessages		<Array> of Symbols, unary messages

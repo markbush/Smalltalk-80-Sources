@@ -1,0 +1,10 @@
+{
+  "class": "WordArray",
+  "superclass": "ArrayedCollection",
+  "classType": "variableWordSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Support",
+}

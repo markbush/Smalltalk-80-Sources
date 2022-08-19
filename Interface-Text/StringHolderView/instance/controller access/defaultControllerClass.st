@@ -1,0 +1,2 @@
+defaultControllerClass
+	^StringHolderController

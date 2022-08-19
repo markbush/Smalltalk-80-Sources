@@ -1,0 +1,2 @@
+isControlActive
+	^false

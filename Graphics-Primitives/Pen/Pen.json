@@ -1,0 +1,10 @@
+{
+  "class": "Pen",
+  "superclass": "BitBlt",
+  "classType": "subclass",
+  "instanceVariables": "frame location direction penDown",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Primitives",
+}

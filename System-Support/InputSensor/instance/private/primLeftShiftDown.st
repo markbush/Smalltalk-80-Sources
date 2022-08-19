@@ -1,0 +1,2 @@
+primLeftShiftDown
+	^CurrentInputState leftShiftDown

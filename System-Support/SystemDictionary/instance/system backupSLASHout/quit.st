@@ -1,0 +1,6 @@
+quit
+	"Close open files then exit to another operating system on the host machine,
+	if one exists.  All state changes in the object space since the last snapshot are lost."
+
+	self releaseExternalViews.
+	self quitPrimitive

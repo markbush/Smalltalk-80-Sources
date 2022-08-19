@@ -1,0 +1,5 @@
+I represent a method suitable for interpretation by the virtual machine.  My instances have pointer fields, including a header and some literals, followed by non-pointer fields comprising the byte encoded instructions for the method.  The header encodes the number of arguments, the number of literals, and the amount of temporary space needed (for context allocation).
+
+An extra three bytes are added after the executable code.  These contain an external file address to the source code for the method.
+
+Instance Variables: *byte indexed*

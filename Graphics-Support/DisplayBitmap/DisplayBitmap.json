@@ -1,0 +1,10 @@
+{
+  "class": "DisplayBitmap",
+  "superclass": "WordArray",
+  "classType": "variableWordSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Support",
+}

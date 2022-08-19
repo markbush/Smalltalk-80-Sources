@@ -1,0 +1,10 @@
+{
+  "class": "MessageTally",
+  "superclass": "Magnitude",
+  "classType": "subclass",
+  "instanceVariables": "class method tally receivers",
+  "classInstanceVariables": "",
+  "classVariables": "HowOften ObservedProcess TargetBlock Timer",
+  "poolDictionaries": "",
+  "category": "System-Support",
+}

@@ -1,0 +1,9 @@
+I am an abstract View of a list of items.  I provide support for storing a selection of one item, as well as formatting the list for presentation on the screen.  My default controller is ListController.
+
+Instance Variables:
+	list				<Array> of Strings, each one an item
+	selection		<Integer> index into the array, list
+	topDelimiter		<String>, usually  ------------, indicating the top of the list
+	bottomDelimiter	<String>, usually  ------------, indicating the bottom of the list
+	lineSpacing		<Integer> the amount of extra space between line items
+	isEmpty			<Boolean> true if the list is empty

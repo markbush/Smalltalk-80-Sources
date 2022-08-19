@@ -1,0 +1,9 @@
+I am a view of a Switch.  My instances have labels and display modes (set to "normal" or "complemented").  When one of my instances is displayed in complemented mode, its inside color is reversed.  The value of the display mode corresponds to the value of the model so that, for example, when a Switch is off, its SwitchView is displayed with black text (for the label) on a white background, and when the Switch is off, its SwitchView is displayed with white text on a black background.  My instances have a key character that can be used for switching on or off.  Highlighting can be done specially using a stored form, rather than simply changing all black bits to white and vice versa.  My default controller is SwitchController.
+
+Instance Variables:
+		complemented		<Boolean> true if the model is on
+		label				<DisplayObject>, for example, a DisplayText or a Form
+		selector				<Symbol>
+		keyCharacter		<Character>
+		highlightForm		<Form>
+		arguments			<Array>

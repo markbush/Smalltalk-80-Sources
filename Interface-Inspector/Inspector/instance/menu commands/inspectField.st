@@ -1,0 +1,2 @@
+inspectField
+	self fieldValue inspect

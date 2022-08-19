@@ -1,0 +1,7 @@
+Instance Variables:
+	sender	<Context>, sometimes <CompiledMethod>
+	pc		<Integer> pointing into my method
+
+As a superclass of contexts, I store the return pointer in sender, and the current position in my method in pc.
+
+This class by itself has the ability to interpret the byte-encoded Smalltalk instruction set and maintains a program counter (pc) for streaming through CompiledMethods.  Contexts thus inherit all this capability and, for other users, sender can hold a method to be similarly interpreted.  The unclean re-use of sender to hold the method was to avoid a trivial subclass for the stand-alone scanning funtion.

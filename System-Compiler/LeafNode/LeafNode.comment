@@ -1,0 +1,7 @@
+I represent a leaf node of the compiler parse tree.  I am abstract.
+ Types (defined in class ParseNode):
+	1 LdInstType (which uses class VariableNode)
+	2 LdTempType (which uses class VariableNode)
+	3 LdLitType (which uses class LiteralNode)
+	4 LdLitIndType (which uses class VariableNode)
+	5 SendType (which uses class SelectorNode)

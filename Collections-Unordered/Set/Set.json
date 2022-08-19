@@ -1,0 +1,10 @@
+{
+  "class": "Set",
+  "superclass": "Collection",
+  "classType": "variableSubclass",
+  "instanceVariables": "tally",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Unordered",
+}

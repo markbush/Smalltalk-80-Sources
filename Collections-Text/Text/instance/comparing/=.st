@@ -1,0 +1,2 @@
+= anotherText
+	^string = anotherText string

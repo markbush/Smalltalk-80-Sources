@@ -1,0 +1,2 @@
+sizeForEffect: encoder
+	^0

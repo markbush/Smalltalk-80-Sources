@@ -1,0 +1,10 @@
+{
+  "class": "ClassDescription",
+  "superclass": "Behavior",
+  "classType": "subclass",
+  "instanceVariables": "instanceVariables organization",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Classes",
+}

@@ -1,0 +1,10 @@
+{
+  "class": "DecompilerConstructor",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "method instVars nArgs literalValues tempVars",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

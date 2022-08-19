@@ -1,0 +1,8 @@
+My instances hold all the dynamic state associated with the execution of a CompiledMethod.  In addition to their inherited state, this includes the receiver, a method, and temporary space in the variable part of the context.
+
+MethodContexts, though normal in their variable size, are actually only used in two sizes, small and large, which are determined by the temporary space required by the method being executed.
+
+Instance Variables:  *indexed*
+	method			<CompiledMethod>
+	receiverMap		unused (we expect to use it later for multiple inheritance)
+	receiver			<Object>

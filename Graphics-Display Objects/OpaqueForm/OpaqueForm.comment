@@ -1,0 +1,1 @@
+OpaqueForms include a shape as well as a figure form.  The shape indicates what part of the background should get occluded in displaying, so that patterns other than black in the figure form will still appear opaque.

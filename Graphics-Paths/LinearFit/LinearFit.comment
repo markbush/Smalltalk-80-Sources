@@ -1,0 +1,2 @@
+A subclass of Path that is a piece-wise linear
+				approximation to a set of points in the plane.

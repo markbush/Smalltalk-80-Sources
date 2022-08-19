@@ -1,0 +1,10 @@
+{
+  "class": "ExternalStream",
+  "superclass": "ReadWriteStream",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Files-Streams",
+}

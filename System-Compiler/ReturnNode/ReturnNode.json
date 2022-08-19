@@ -1,0 +1,10 @@
+{
+  "class": "ReturnNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "expr pc",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

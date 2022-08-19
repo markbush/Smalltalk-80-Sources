@@ -1,0 +1,1 @@
+This class represents characters by storing their associated ASCII (extended to 256 codes) code.  The instances of this class are created uniquely, so that all instances $R (for instance) are identical

@@ -1,0 +1,10 @@
+{
+  "class": "FilePage",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "file page binary",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "FilePool",
+  "category": "Files-Abstract",
+}

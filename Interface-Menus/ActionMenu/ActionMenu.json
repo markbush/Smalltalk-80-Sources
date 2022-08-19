@@ -1,0 +1,10 @@
+{
+  "class": "ActionMenu",
+  "superclass": "PopUpMenu",
+  "classType": "subclass",
+  "instanceVariables": "selectors",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

@@ -1,0 +1,10 @@
+{
+  "class": "ControlManager",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "scheduledControllers activeController activeControllerProcess screenController",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Framework",
+}

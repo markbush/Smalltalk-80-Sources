@@ -1,0 +1,2 @@
+removeAll
+	removed addAll: list

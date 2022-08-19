@@ -1,0 +1,16 @@
+A concrete example of a FileDirectory class.  Implements the Xerox Alto File System.  See the Alto Operating System Reference Manual section about Disks.
+
+Note that the Alto file address format is
+	bits
+	0-3		sector number	(0 - 8r15, i.e., 12 or 14 sectors)
+	4-12	cylinder number (0 - 8r312, Model 31; 0-8r625, Model 44)
+	13		head number (0-1)
+	14		disk number (0-1)
+	15		restore bit.
+
+Instance Variables:
+	dirFile		<File> or nil
+	bitsFile		<File> or nil
+	diskPages	<Integer>
+	totalPages	<Integer>
+	nSectors		<Integer>

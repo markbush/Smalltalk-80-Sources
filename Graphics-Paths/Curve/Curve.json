@@ -1,0 +1,10 @@
+{
+  "class": "Curve",
+  "superclass": "Path",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Paths",
+}

@@ -1,0 +1,4 @@
+I am a RunArray where each run represents the virtual addresses of a block of contiguous pages.  Indexed by page numbers, my instance holds the virtual disk addresses of the pages.  Attributes inherited from RunArray are:  runs, an array of starting indicies;  and values, an array of the first virtual address in each block.
+
+Instance Variables:
+	directory	<FileDirectory>

@@ -1,0 +1,10 @@
+{
+  "class": "String",
+  "superclass": "ArrayedCollection",
+  "classType": "variableByteSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "StringBlter",
+  "poolDictionaries": "",
+  "category": "Collections-Text",
+}

@@ -1,0 +1,10 @@
+{
+  "class": "ProjectView",
+  "superclass": "StringHolderView",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Projects",
+}

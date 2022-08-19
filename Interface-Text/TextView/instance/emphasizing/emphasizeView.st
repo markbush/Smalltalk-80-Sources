@@ -1,0 +1,2 @@
+emphasizeView
+	self controller select

@@ -1,0 +1,10 @@
+{
+  "class": "DictionaryInspector",
+  "superclass": "Inspector",
+  "classType": "subclass",
+  "instanceVariables": "ok",
+  "classInstanceVariables": "",
+  "classVariables": "DictListMenu",
+  "poolDictionaries": "",
+  "category": "Interface-Inspector",
+}

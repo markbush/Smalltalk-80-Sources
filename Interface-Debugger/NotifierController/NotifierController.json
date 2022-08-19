@@ -1,0 +1,10 @@
+{
+  "class": "NotifierController",
+  "superclass": "StandardSystemController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "NotifierYellowButtonMenu NotifierYellowButtonMessages",
+  "poolDictionaries": "",
+  "category": "Interface-Debugger",
+}

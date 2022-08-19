@@ -1,0 +1,19 @@
+I contain the main handling of text editing.  I ought to be used only on smallish paragraphs.
+
+Instance Variables
+
+	paragraph
+<Paragraph>  A pointer to the textForm being edited.  The Paragraph is optimized for managing replacements in it*s stylizedString and for scrolling.
+
+	startBlock
+	stopBlock
+<CharacterBlock>  These variables contain the string indices, characters, and bounding boxes of the starting and stopping characters in the stylizedString which will be operated upon by the next command.
+
+	beginTypeInBlock
+<CharacterBlock>  Used to manage typing and to distinguish selection arising from the last characters typed in from selection with the mouse or which is the result of some special keystroke.
+
+	initialText
+<Text>  A copy of the string held by the Paragraph at the time the text editor was instantiated.  It is currently used to manage the editing of Smalltalk code, and is reinstalled in the Paragraph when a *cancel* is executed and is overwritten when an *accept* is executed."
+
+	selectionState
+<Integer>  1 = on, 0 = off.  Since selection involves raw modification of the bits in the destinationForm of the Paragraph, it must be monitored closely and with care."

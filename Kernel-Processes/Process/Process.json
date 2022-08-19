@@ -1,0 +1,10 @@
+{
+  "class": "Process",
+  "superclass": "Link",
+  "classType": "subclass",
+  "instanceVariables": "suspendedContext priority myList",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Processes",
+}

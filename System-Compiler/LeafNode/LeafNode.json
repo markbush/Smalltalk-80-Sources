@@ -1,0 +1,10 @@
+{
+  "class": "LeafNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "key code",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

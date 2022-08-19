@@ -1,0 +1,10 @@
+{
+  "class": "Debugger",
+  "superclass": "Browser",
+  "classType": "subclass",
+  "instanceVariables": "context receiverInspector contextInspector shortStack sourceMap sourceCode processHandle",
+  "classInstanceVariables": "",
+  "classVariables": "ContextMenu HighlightPC",
+  "poolDictionaries": "",
+  "category": "Interface-Debugger",
+}

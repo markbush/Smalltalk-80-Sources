@@ -1,0 +1,6 @@
+Instance Variables:
+	sourceFileNumber	<Integer> index into SourceFiles
+	filePositionHi		<Integer>
+	filePositionLo		<Integer>
+
+I hold the file reference to the class comment (or any other piece of executable text).

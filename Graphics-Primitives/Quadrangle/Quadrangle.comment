@@ -1,0 +1,6 @@
+I represent a particular kind of Rectangle that has a border and inside color.
+
+Instance Variables:
+	borderWidth		<Rectangle> the left, right, top, bottom border widths
+	borderColor		<Form>
+	insideColor 		<Form>

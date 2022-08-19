@@ -1,0 +1,1 @@
+A FileDirectory is uniquely identified by the device or server that it refers to. A FileDirectory is a collection of Files.  It may also be found in some other dictionary or FileDirectory, though often this is implicit

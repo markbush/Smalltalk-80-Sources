@@ -1,0 +1,10 @@
+{
+  "class": "Button",
+  "superclass": "Switch",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

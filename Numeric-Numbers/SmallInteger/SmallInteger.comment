@@ -1,0 +1,1 @@
+SmallIntegers are optimized for the interpreter, stored in two-s complement form.  The allowable range is from minVal to maxVal.

@@ -1,0 +1,4 @@
+I represent an interface between a File and an editable view of it.  As a StringHolder, the string is the contents of the File.
+
+Instance Variables:
+	fileName	<String> The name of the file I am viewing.

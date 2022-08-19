@@ -1,0 +1,15 @@
+I know how to scan a changes file and produce Change objects from it.  I also function as a model for a ListView.
+
+Instance variables:
+	listName <String> "label for browser, the set of files that I have read"
+	changes <OrderedCollection of: Change> "my underlying collection of changes"
+	selectionIndex <Integer> "currently selected change, or 0 if none"
+	currentChange <String> "text of current selection"
+	list <OrderedCollection of: Change> "filtered collection of changes"
+	filter <BlockContext> "filter predicate"
+	removed <Set> "removed changes"
+	filterList <Array of: Symbol> "individual filters, or nil"
+	filterKey <Change> "the change supplying the key value(s) for the filter(s)"
+	changeDict <Dictionary from: Symbol to: (OrderedCollection of: Change)> "cross-index for conflict detection"
+	doItDict <Dictionary from: String to: (OrderedCollection of: Change)> "cross-index for conflict detection"
+	fieldList <Array of: Symbol> "individual field options, or nil"

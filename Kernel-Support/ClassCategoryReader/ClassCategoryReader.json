@@ -1,0 +1,10 @@
+{
+  "class": "ClassCategoryReader",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "class category",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Support",
+}

@@ -1,0 +1,2 @@
+This is the basic superclass of the Graphic Spatial Primitives.  Spatial Primitives are used to generate "trajactories" or paths like lines and circles.  The
+instance variable form is the "brush" used for displaying the Path:  the image is accomplished by displaying the form at each point in the Path.

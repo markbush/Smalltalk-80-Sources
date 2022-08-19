@@ -1,0 +1,2 @@
+method
+	^whichClass compiledMethodAt: selector

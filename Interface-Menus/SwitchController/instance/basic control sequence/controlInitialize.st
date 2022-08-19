@@ -1,0 +1,2 @@
+controlInitialize
+	view indicatorReverse

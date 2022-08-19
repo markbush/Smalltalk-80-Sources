@@ -1,0 +1,3 @@
+LiteralDictionaries check not only for equality but also for same class of their keys.
+This avoids the problem of 0 being considered = to 0.0 as in Dictionaries, and it
+also avoids the problem of 1.3 not being == to 1.3 (necessarily), as in IdentityDictionaries.

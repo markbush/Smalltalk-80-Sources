@@ -1,0 +1,1 @@
+I am a kind of ScrollController that assumes that the view is a kind of ListView.  Therefore, scrolling means moving the items in a textual list (menu) up or down. In addition, I provide the red button activity of determining when the red button is selecting an item in the list.

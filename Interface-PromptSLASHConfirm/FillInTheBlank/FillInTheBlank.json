@@ -1,0 +1,10 @@
+{
+  "class": "FillInTheBlank",
+  "superclass": "StringHolder",
+  "classType": "subclass",
+  "instanceVariables": "actionBlock actionTaken",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Prompt/Confirm",
+}

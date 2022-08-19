@@ -1,0 +1,10 @@
+{
+  "class": "FileDirectory",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "directoryName closed",
+  "classInstanceVariables": "",
+  "classVariables": "ExternalReferences",
+  "poolDictionaries": "FilePool",
+  "category": "Files-Abstract",
+}

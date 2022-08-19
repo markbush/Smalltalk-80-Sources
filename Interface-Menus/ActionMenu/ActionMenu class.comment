@@ -1,0 +1,4 @@
+This subclass of PopUpMenu carries a list of selectors corresponding to the various menu items.
+Therefore, with only the menu as a parameter, a controller can display the menu and then
+tell its model to perform the associated selector.  This saves maintaining two parallel structures,
+one for the names in the menu, and one for the selectors to be performed.

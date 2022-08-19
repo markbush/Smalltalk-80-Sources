@@ -1,0 +1,10 @@
+{
+  "class": "MouseMenuController",
+  "superclass": "Controller",
+  "classType": "subclass",
+  "instanceVariables": "redButtonMenu redButtonMessages yellowButtonMenu yellowButtonMessages blueButtonMenu blueButtonMessages",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Support",
+}

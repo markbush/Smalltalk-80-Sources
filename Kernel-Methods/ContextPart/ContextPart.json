@@ -1,0 +1,10 @@
+{
+  "class": "ContextPart",
+  "superclass": "InstructionStream",
+  "classType": "subclass",
+  "instanceVariables": "stackp",
+  "classInstanceVariables": "",
+  "classVariables": "TryPrimitiveMethods",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

@@ -1,0 +1,1 @@
+A TextLineInterval specifies the starting and stopping points in a String of a composed line.  The step is always 1.  The internalSpaces is the number of spaces in the line, and the paddingWidth is the amount to be added to the font

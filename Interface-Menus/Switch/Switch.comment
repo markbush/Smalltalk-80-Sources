@@ -1,0 +1,6 @@
+I represent a selection setting and actions to take depending on a change in the setting.  An instance of me has three attributes:  state, which is either on or off;  on action;  and off action.  The on and off actions are blocks of code that execute whenever the instance changes state.  I am typically used as a menu item in conjunction with a SwitchView and a SwitchController.
+
+Instance Variables:
+		on				<Boolean> true if the Switch is on
+		onAction		<BlockContext> or nil
+		offAction		<BlockContext> or nil

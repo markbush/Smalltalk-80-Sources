@@ -1,0 +1,38 @@
+The font and emphasis changes for text is fundamentally more complex than such graphical entities as a bar chart or pie chart.  Hence many of the methods associated with Paragraph tend to be, stylistically, longer and more complex than those in most other system classes.
+
+Instance Variables:
+
+	clippingRectangle
+<Rectangle>  A Rectangle in CurrentDisplay coordinates. Its intersection with the compositionRectangle in turn intersected with the destinationForm is the area in which characters are constrained to display.
+
+	compositionRectangle
+<Rectangle>  Its offset serves as a relative offset similar to the offset field in Form.  The width of the compositionRectangle is the dimension, modified by indents and tabsLevels, against which line wraparound is measured.  The height of the compositionRectangle is reset each time recomposition is required.  This happens when the stylizedString is initially composed and whenever a replacement (copyReplaceFrom:to:with:) occurs.
+
+	destinationForm
+<Form>  The Form into which the characters are scanned.  Typically CurrentDisplay.
+	rule
+<Integer>  The rule according to which character display behaves. For example, rule may equal over, under, reverse, etc.
+
+	mask
+<Form>  The form with which each character is combined by the scanner before applying the rule for display.
+
+	marginTabsLevel
+<Integer>  The margin tabs give the left and right indent values for a specified marginTabsLevel.  The marginTabsLevel is sometimes referred to as the nesting level and is an index into the marginTabsArray of the stringStyle.
+
+	firstIndent
+<Integer>  Amount to inset from the left margin for the first line of a paragraph. Initialized to value in the textStyle.
+
+	restIndent
+<Integer>  Amount to inset from the left margin for all but the first line of a paragraph. Initialized to value in the textStyle.
+
+	rightIndent
+<Integer>  Amount to inset from the right margin for all the lines of the paragraph. Initialized to value in the textStyle.
+
+	lines
+<Array>  This array is built during composition and modified when the stylizedString is modified (copyReplaceFrom:to:with:).  Each of its fields from 1 to lastLine contains a TextLineInterval which in turn contains the starting index and stopping index of a given line as well as its internal spaces and padding width, the latter two being used to support the management of padded spaces, tabs and changing margin alignments.
+
+	lastLine
+<Integer>  The index of the last validly composed line in the lines array.
+
+	outputMedium
+<Symbol>   Either #Display, #PressPrinter or #DisplayPrinterWidths as of 1/20/80.  Needed by CompositionScanner for determining the nature of the font to be used for character widths.  For the DisplayScanner there are several places where distinguishing between displaying and printing is required.  Also used for some margin and grid computations.

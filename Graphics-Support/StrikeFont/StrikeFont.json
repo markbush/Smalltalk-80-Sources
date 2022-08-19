@@ -1,0 +1,10 @@
+{
+  "class": "StrikeFont",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "xTable glyphs name stopConditions type minAscii maxAscii maxWidth strikeLength ascent descent xOffset raster subscript superscript emphasis",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "TextConstants",
+  "category": "Graphics-Support",
+}

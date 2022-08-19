@@ -1,0 +1,10 @@
+{
+  "class": "Cursor",
+  "superclass": "Form",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "BlankCursor CornerCursor CrossHairCursor CurrentCursor DownCursor MarkerCursor NormalCursor OriginCursor ReadCursor SquareCursor UpCursor WaitCursor WriteCursor XeqCursor",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

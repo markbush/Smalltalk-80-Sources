@@ -1,0 +1,1 @@
+Each screen is a manifestation of a project.  Each project manages the windows (views) in it.  While the user is working in the project, the changes made to classes are collected.  Thus a system-wide set of changes is the collection of all project changes.

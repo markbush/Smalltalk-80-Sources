@@ -1,0 +1,2 @@
+printOutClass
+	self nonMetaClass printOut

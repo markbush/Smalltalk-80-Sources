@@ -1,0 +1,5 @@
+I represent a request for information that will be applied as the argument of a block of actions.
+
+Instance Variables
+	actionBlock	<BlockContext>
+	actionTaken <Boolean> whether the actonBlock has been evaluated at least once

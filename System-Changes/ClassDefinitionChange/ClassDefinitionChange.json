@@ -1,0 +1,10 @@
+{
+  "class": "ClassDefinitionChange",
+  "superclass": "ClassChange",
+  "classType": "subclass",
+  "instanceVariables": "superclassName classType otherParameters",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

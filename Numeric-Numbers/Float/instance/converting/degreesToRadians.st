@@ -1,0 +1,2 @@
+degreesToRadians
+	^self * RadiansPerDegree

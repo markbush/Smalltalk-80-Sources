@@ -1,0 +1,2 @@
+isNil
+	^true

@@ -1,0 +1,2 @@
+bindTemp: name
+	^name

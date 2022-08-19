@@ -1,0 +1,2 @@
+asSymbol
+	^Symbol internCharacter: self

@@ -1,0 +1,10 @@
+{
+  "class": "FillInTheBlankController",
+  "superclass": "StringHolderController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Prompt/Confirm",
+}

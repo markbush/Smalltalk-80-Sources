@@ -1,0 +1,10 @@
+{
+  "class": "SystemDictionary",
+  "superclass": "Dictionary",
+  "classType": "variableSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "CachedClassNames Frills LowSpaceProcess LowSpaceSemaphore OopsLeftLimit SpecialSelectors SystemChanges WordsLeftLimit",
+  "poolDictionaries": "",
+  "category": "System-Support",
+}

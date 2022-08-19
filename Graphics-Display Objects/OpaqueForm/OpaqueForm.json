@@ -1,0 +1,10 @@
+{
+  "class": "OpaqueForm",
+  "superclass": "DisplayObject",
+  "classType": "subclass",
+  "instanceVariables": "figure shape",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

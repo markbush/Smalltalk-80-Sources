@@ -1,0 +1,10 @@
+{
+  "class": "Rectangle",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "origin corner",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Primitives",
+}

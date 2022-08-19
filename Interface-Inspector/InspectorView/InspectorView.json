@@ -1,0 +1,10 @@
+{
+  "class": "InspectorView",
+  "superclass": "StandardSystemView",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Inspector",
+}

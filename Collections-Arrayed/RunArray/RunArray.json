@@ -1,0 +1,10 @@
+{
+  "class": "RunArray",
+  "superclass": "ArrayedCollection",
+  "classType": "subclass",
+  "instanceVariables": "runs values",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Arrayed",
+}

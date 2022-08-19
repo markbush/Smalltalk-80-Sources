@@ -1,0 +1,10 @@
+{
+  "class": "ScreenController",
+  "superclass": "MouseMenuController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "ScreenYellowButtonMenu ScreenYellowButtonMessages",
+  "poolDictionaries": "",
+  "category": "Interface-Support",
+}

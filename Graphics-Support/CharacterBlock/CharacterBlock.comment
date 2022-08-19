@@ -1,0 +1,4 @@
+CharacterBlocks contain information about displayed characters.  They are used to return the results of methods
+	Paragraph characterBlockAtPoint: aPoint and
+	Paragraph characterBlockForIndex: stringIndex.
+Any recomposition or movement of a Paragraph can make the information obsolete.

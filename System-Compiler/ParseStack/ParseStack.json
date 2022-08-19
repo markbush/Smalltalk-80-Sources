@@ -1,0 +1,10 @@
+{
+  "class": "ParseStack",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "position length",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

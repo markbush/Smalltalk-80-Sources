@@ -1,0 +1,2 @@
+textHasChanged
+	^ self text ~= initialText

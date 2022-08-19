@@ -1,0 +1,2 @@
+isUnlocked
+	^ self isLocked not

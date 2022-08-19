@@ -1,0 +1,10 @@
+{
+  "class": "Inspector",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "object field",
+  "classInstanceVariables": "",
+  "classVariables": "ListMenu TextMenu",
+  "poolDictionaries": "",
+  "category": "Interface-Inspector",
+}

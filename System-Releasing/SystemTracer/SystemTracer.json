@@ -1,0 +1,10 @@
+{
+  "class": "SystemTracer",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "map refcts file holder writeDict maxOop specialObjects initialProcess ot bank addr",
+  "classInstanceVariables": "",
+  "classVariables": "Clamped MT NewNil NoRefs ODD OVref PTRS",
+  "poolDictionaries": "",
+  "category": "System-Releasing",
+}

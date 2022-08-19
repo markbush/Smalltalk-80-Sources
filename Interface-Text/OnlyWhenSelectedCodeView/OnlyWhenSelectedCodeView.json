@@ -1,0 +1,10 @@
+{
+  "class": "OnlyWhenSelectedCodeView",
+  "superclass": "CodeView",
+  "classType": "subclass",
+  "instanceVariables": "selectionMsg",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

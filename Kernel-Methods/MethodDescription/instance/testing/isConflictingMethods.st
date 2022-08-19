@@ -1,0 +1,2 @@
+isConflictingMethods
+	^status == #conflictingMethods

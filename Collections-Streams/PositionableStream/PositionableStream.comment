@@ -1,0 +1,1 @@
+I assume that my contents is an indexable collection and that, in support of accessing the elements of my contents, I can reposition a pointer.  I am abstract in that I do not implement the messages next and nextPut: which are inherited from my superclass Stream.

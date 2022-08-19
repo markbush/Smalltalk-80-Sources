@@ -1,0 +1,4 @@
+I represent a view of a Form.  Editing takes place by modifying a working version of the Form.  The message accept is used to copy the working version into the Form;  the message cancel copies the Form into the working version.
+
+Instance Variables:
+	displayedForm <Form> a working version of the Form for cancelable editing

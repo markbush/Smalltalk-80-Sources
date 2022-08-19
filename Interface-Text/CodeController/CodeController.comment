@@ -1,0 +1,2 @@
+This controller adds some capability appropriate only to viewing Smalltalk code,
+such as 'explain' and 'format'.

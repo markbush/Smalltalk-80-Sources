@@ -1,0 +1,10 @@
+{
+  "class": "Symbol",
+  "superclass": "String",
+  "classType": "variableByteSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "SingleCharSymbols USTable",
+  "poolDictionaries": "",
+  "category": "Collections-Text",
+}

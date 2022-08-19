@@ -1,0 +1,1 @@
+I am a kind of MouseMenuController that creates a yellow button menu for proceeding an interrupted process or for creating and scheduling a debugger on the interrupted machine state.  I give up control if a blue button is pressed or if the cursor is not inside the view.

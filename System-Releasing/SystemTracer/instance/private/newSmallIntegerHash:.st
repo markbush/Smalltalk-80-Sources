@@ -1,0 +1,2 @@
+newSmallIntegerHash: anInteger
+	^ anInteger asOop

@@ -1,0 +1,2 @@
+computeBoundingBox
+	^figure boundingBox

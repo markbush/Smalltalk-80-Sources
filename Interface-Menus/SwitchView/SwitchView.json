@@ -1,0 +1,10 @@
+{
+  "class": "SwitchView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "complemented label selector keyCharacter highlightForm arguments",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

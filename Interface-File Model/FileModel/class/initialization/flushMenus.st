@@ -1,0 +1,2 @@
+flushMenus
+	TextMenu _ nil

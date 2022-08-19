@@ -1,0 +1,10 @@
+{
+  "class": "Explainer",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "class selector instance context methodText",
+  "classInstanceVariables": "",
+  "classVariables": "NewLine",
+  "poolDictionaries": "",
+  "category": "Interface-Support",
+}

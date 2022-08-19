@@ -1,0 +1,2 @@
+declareFailed: name
+	self abort

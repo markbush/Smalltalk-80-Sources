@@ -1,0 +1,5 @@
+This metaclass has an additional field and protocol to support multiple inheritance.
+The field, otherSupers, contains a collection of additional superclasses (other than the normal dynamic one) from which traits are to be inherited.  Since the otherSupers appears in the metaclass, classes must ask their metas for other supers (sort of the way metas ask their thisClasses for subs).
+
+It would have been more natural to put otherSupers into a class ClassWithMultSupers, but this would have had to inherit both the multiple supers AND the normal metaclass
+inheritance, thus posing a bootstrapping need for multiple inheritance.

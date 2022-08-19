@@ -1,0 +1,10 @@
+{
+  "class": "StringHolderView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "displayContents",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Text",
+}

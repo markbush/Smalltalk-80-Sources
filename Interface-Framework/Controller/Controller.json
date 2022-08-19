@@ -1,0 +1,10 @@
+{
+  "class": "Controller",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "model view sensor",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Framework",
+}

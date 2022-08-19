@@ -1,0 +1,10 @@
+{
+  "class": "ListView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "list selection topDelimiter bottomDelimiter lineSpacing isEmpty",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Lists",
+}

@@ -1,0 +1,9 @@
+I am a controller for StandardSystemViews, that is, those views that are at the top level of a project in the system user interface.  I am a kind of MouseMenuController that creates a blue button menu for moving, framing, collapsing, and closing StandardSystemViews, and for selecting views under the view of my instance.
+
+Instance Variables:
+	status	<Symbol> condition, either
+			#active--keep control as long as the cursor is inside the view if a
+					button is pressed
+			#inactive -- no longer in control, deEmphasize any highlighting
+			#open -- visible on the screen
+			#closed -- unschedule the instance from the project

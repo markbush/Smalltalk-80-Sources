@@ -1,0 +1,10 @@
+{
+  "class": "SystemOrganizer",
+  "superclass": "ClassOrganizer",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Support",
+}

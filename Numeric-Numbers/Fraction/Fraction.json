@@ -1,0 +1,10 @@
+{
+  "class": "Fraction",
+  "superclass": "Number",
+  "classType": "subclass",
+  "instanceVariables": "numerator denominator",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

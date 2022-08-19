@@ -1,0 +1,5 @@
+Instance Variables:
+	string:	A String of Characters
+	runs:	A RunArray of emphasis codes
+
+The emphasis codes indicate abstract changes in character appearance.  Actual display is performed in the presence of a TextStyle which indicates, for each abstract code, an actual font to be used

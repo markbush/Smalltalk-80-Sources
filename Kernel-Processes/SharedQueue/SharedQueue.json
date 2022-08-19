@@ -1,0 +1,10 @@
+{
+  "class": "SharedQueue",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "contentsArray readPosition writePosition accessProtect readSynch",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Processes",
+}

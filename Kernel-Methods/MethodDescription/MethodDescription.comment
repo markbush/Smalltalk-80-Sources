@@ -1,0 +1,1 @@
+I model the result of looking up a selector name.  Usually I simply identify an existing method in some class in the system.  However, the lookup may fail, in which case I know the message would not be understood.  Also, in multiple inheritance situations, the lookup may yield conflicting results, in which case I will know that as well.

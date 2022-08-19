@@ -1,0 +1,1 @@
+I am an indexed collection of Characters.  I really store 8-bit bytes, but my access protocol translates between these and real Character instances.

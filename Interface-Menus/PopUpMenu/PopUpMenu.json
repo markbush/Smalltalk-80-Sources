@@ -1,0 +1,10 @@
+{
+  "class": "PopUpMenu",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "labelString font lineArray frame form marker selection",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

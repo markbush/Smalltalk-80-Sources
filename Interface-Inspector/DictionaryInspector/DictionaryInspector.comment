@@ -1,0 +1,1 @@
+Note that the "field" instance variable of DictionaryInspectors contains the actual current dictionary key object, not a field name string.

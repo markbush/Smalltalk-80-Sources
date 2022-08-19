@@ -1,0 +1,2 @@
+coerce: aNumber
+	^aNumber truncated

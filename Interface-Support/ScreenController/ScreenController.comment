@@ -1,0 +1,1 @@
+I am the controller for the parts of the display screen that have no window on them.  I only provide a standard yellow button menu.  I view (a FormView of) an infinite gray form.

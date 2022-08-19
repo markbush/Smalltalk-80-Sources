@@ -1,0 +1,10 @@
+{
+  "class": "Random",
+  "superclass": "Stream",
+  "classType": "subclass",
+  "instanceVariables": "seed",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

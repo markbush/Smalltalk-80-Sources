@@ -1,0 +1,1 @@
+I am used by the decompiler to construct parse tree nodes and other appropriate items corresponding to each unit identified by the decompiler.  This factoring allows the decompiler, in principle, to use other constructors for other purposes.

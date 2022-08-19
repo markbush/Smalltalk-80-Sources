@@ -1,0 +1,10 @@
+{
+  "class": "InputSensor",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "keyboardMap",
+  "classInstanceVariables": "",
+  "classVariables": "CurrentCursor CurrentInputState DefaultKeyboardMap",
+  "poolDictionaries": "",
+  "category": "System-Support",
+}

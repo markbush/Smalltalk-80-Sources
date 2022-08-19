@@ -1,0 +1,10 @@
+{
+  "class": "Stream",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Streams",
+}

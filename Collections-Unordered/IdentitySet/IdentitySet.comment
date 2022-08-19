@@ -1,0 +1,1 @@
+Just like Set, but uses == instead of = for comparisons

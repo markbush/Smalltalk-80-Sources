@@ -1,0 +1,7 @@
+Instance Variables:
+	superclass	<Behavior> links the chain of inheritance
+	methodDict	<IdentityDictionary> associates message names with methods
+	format		<Integer> encodes storage layout of instances
+	subclasses	<Set> back-pointers to the class' subclasses
+
+Behavior provides the minimum state necessary for compiling methods, and creating and running instances.  Most objects are created as instances of the more fully supported subclass, Class, but Behavior is a good starting point for providing instance-specific behavior (as in Metaclass).

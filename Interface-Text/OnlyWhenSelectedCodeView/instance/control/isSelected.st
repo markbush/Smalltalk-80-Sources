@@ -1,0 +1,2 @@
+isSelected
+	^model perform: selectionMsg

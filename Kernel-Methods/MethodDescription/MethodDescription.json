@@ -1,0 +1,10 @@
+{
+  "class": "MethodDescription",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "status whichClass selector",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Methods",
+}

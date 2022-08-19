@@ -1,0 +1,11 @@
+I represent a list of items.  My instances are presented on the display screen in a rectangular area.  The user points to an item, pressing a mouse button;  the item is highlighted.  When the button is released, the highlighted item indicates the selection.
+
+Instance Variables:
+
+labelString	<String> of menu items
+font		<StrikeFont> for displaying the characters
+lineArray	<Array> of integers indicating where lines should be drawn in the menu
+frame	<Quadrangle>
+form	<Form> containing the composed paragraph
+marker	<Rectangle> used to highlight selection
+selection	<Integer> index into menu items;  if 0, no selection

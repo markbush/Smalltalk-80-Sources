@@ -1,0 +1,10 @@
+{
+  "class": "Array",
+  "superclass": "ArrayedCollection",
+  "classType": "variableSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Arrayed",
+}

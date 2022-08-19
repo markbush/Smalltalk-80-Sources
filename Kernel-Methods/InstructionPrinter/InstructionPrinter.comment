@@ -1,0 +1,6 @@
+Instance Variables:
+	stream	<WriteStream> accumulates symbolic output
+	oldPC	<integer> remembers where current instruction started
+
+An InstructionPrinter can print the object code of a CompiledMethod in symbolic format.  It prints into stream, and uses oldPC to know how many bytes to print in the listing.
+The inherited variable "sender" is used in an ugly way to hold the method being printed.

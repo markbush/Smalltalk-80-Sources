@@ -1,0 +1,10 @@
+{
+  "class": "LockedListController",
+  "superclass": "ListController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Lists",
+}

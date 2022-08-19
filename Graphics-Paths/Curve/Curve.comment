@@ -1,0 +1,3 @@
+A subclass of Path that is a conic section determined by
+				three points p1,p2 and p3 that interpolates p1 and p3
+				and is tangent to p1,p2 and p3,p2 at p1 and p3 respectively.

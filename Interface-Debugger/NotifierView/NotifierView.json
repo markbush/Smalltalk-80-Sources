@@ -1,0 +1,10 @@
+{
+  "class": "NotifierView",
+  "superclass": "StandardSystemView",
+  "classType": "subclass",
+  "instanceVariables": "contents",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Debugger",
+}

@@ -1,0 +1,5 @@
+A model for providing a layer of structure in order to view an aspect of structured information that is a string.
+
+Instance variables
+	contents		<String>
+	isLocked	<Boolean> whether or not the contents has been changed but not stored

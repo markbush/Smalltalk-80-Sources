@@ -1,0 +1,10 @@
+{
+  "class": "MethodDictionary",
+  "superclass": "IdentityDictionary",
+  "classType": "variableSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Support",
+}

@@ -1,0 +1,10 @@
+{
+  "class": "View",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "model controller superView subViews transformation viewport window displayTransformation insetDisplayBox borderWidth borderColor insideColor boundingBox",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Framework",
+}

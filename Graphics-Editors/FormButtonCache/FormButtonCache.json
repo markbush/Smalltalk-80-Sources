@@ -1,0 +1,10 @@
+{
+  "class": "FormButtonCache",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "offset form value initialState",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Editors",
+}

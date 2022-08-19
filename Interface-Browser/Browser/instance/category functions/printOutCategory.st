@@ -1,0 +1,2 @@
+printOutCategory
+	organization printOutCategory: category

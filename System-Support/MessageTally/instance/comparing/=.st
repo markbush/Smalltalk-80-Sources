@@ -1,0 +1,2 @@
+= aMessageTally
+	^aMessageTally method == method

@@ -1,0 +1,1 @@
+I represent a report of a syntax error when reading class descriptions from a noninteractive source such as an external file.  As a StringHolder, the string to be viewed is the code or expression containing the error.

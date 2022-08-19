@@ -1,0 +1,1 @@
+This Class is a Line specified by two points. This is a sub-class of path though the two points that determine the line are called begin and end.

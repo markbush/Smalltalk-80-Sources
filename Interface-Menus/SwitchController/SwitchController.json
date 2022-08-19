@@ -1,0 +1,10 @@
+{
+  "class": "SwitchController",
+  "superclass": "Controller",
+  "classType": "subclass",
+  "instanceVariables": "selector arguments cursor",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Interface-Menus",
+}

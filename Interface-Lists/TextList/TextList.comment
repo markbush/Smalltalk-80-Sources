@@ -1,0 +1,6 @@
+TextList is a subclass of Paragraph which is a more efficient representation of lists.
+Since it displays a list of items, it does not try to produce a single string with CRs,
+but instead simply makes up TextLineIntervals on the fly as needed by the view.
+The major savings come from not needing to make up a new string for the whole list
+and not having to measure the lines, since it is assumed that if they are too long,
+they will simply be clipped rather than wrapping to the next line.

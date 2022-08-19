@@ -1,0 +1,10 @@
+{
+  "class": "Float",
+  "superclass": "Number",
+  "classType": "variableWordSubclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "ExpPCoefficients ExpQCoefficients Fourthpi Halfpi Ln2 LnCoefficients Pi RadiansPerDegree SinCoefficients Sqrt2 TanCoefficients Twopi",
+  "poolDictionaries": "",
+  "category": "Numeric-Numbers",
+}

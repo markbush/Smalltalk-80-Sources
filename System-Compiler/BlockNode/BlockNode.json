@@ -1,0 +1,10 @@
+{
+  "class": "BlockNode",
+  "superclass": "ParseNode",
+  "classType": "subclass",
+  "instanceVariables": "arguments statements returns nArgsNode size remoteCopyNode sourceRange endPC",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Compiler",
+}

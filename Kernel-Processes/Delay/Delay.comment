@@ -1,0 +1,7 @@
+I represent a realtime delay in the execution of a Process.  See the howToUse message in the class messages.
+
+Instance Variables:
+		delayDuration		<Integer> number of milliseconds to delay process
+		resumptionTime		<Integer> value of millisecond clock at which to resume
+		delaySemaphore		<Semaphore> on which to delay process
+		delayInProgress		<Boolean> true if delaying now

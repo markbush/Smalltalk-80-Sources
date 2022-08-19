@@ -1,0 +1,10 @@
+{
+  "class": "FileModel",
+  "superclass": "Object",
+  "classType": "subclass",
+  "instanceVariables": "fileName",
+  "classInstanceVariables": "",
+  "classVariables": "TextMenu",
+  "poolDictionaries": "",
+  "category": "Interface-File Model",
+}

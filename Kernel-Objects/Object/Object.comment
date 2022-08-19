@@ -1,0 +1,1 @@
+Object is the superclass of all classes.  It thus provides default behavior common to all objects, such as class access, copying and printing.

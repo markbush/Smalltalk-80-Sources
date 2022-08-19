@@ -1,0 +1,6 @@
+My instances describe the representation and behavior of objects.  I add more comprehensive programming support facilities to the basic attributes of Behavior and the descriptive facilities of ClassDescription.  An example is accessing shared (pool) variables.
+
+Instance Variables:
+		name		<Symbol> name of class for printing and global reference
+		classPool	<Dictionary> of variables common to all instances
+		sharedPools	<Array> of Dictionaries access to other shared variables

@@ -1,0 +1,2 @@
+isEmpty
+	^firstLink == nil

@@ -1,0 +1,10 @@
+{
+  "class": "Form",
+  "superclass": "DisplayMedium",
+  "classType": "subclass",
+  "instanceVariables": "bits width height offset",
+  "classInstanceVariables": "whiteMask darkGrayMask grayMask blackMask lightGrayMask veryLightGrayMask",
+  "classVariables": "OneBitForm",
+  "poolDictionaries": "",
+  "category": "Graphics-Display Objects",
+}

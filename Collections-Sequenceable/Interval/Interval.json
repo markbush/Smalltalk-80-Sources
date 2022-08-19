@@ -1,0 +1,10 @@
+{
+  "class": "Interval",
+  "superclass": "SequenceableCollection",
+  "classType": "subclass",
+  "instanceVariables": "start stop step",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Collections-Sequenceable",
+}

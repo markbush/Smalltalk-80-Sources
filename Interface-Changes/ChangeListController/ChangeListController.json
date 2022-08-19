@@ -1,0 +1,10 @@
+{
+  "class": "ChangeListController",
+  "superclass": "LockedListController",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "ChangeListYellowButtonMenu ChangeListYellowButtonMessages",
+  "poolDictionaries": "",
+  "category": "Interface-Changes",
+}

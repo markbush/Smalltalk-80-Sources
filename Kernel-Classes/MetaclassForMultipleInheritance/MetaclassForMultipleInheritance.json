@@ -1,0 +1,10 @@
+{
+  "class": "MetaclassForMultipleInheritance",
+  "superclass": "Metaclass",
+  "classType": "subclass",
+  "instanceVariables": "otherSuperclasses",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Kernel-Classes",
+}

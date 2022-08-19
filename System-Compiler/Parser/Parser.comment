@@ -1,0 +1,16 @@
+I parse Smalltalk syntax and create a parse tree.  I look one token ahead.
+Instance Variables:
+	here		<Object> the current token
+	hereType	<Symbol> the "type" of the current token (see initialize)
+	hereMark	<Integer> position in source stream (mark) where this token began
+	prevToken	<Integer> size in chars of the previous token parsed
+	prevMark	<Integer> mark of previous token
+	encoder		<Encoder> which uses tables to decode tokens
+	requestor	object from which parsing was invoked.  If not nil, this object
+				will be sent -notify: prior to evaluating the failBlock
+	parseNode	<ParseNode> result of current (recursive descent) parse
+	failBlock	<BlockContext> to be evaluated in case of parse errors
+	lastTempMark <Integer> mark of last temp; points to vert bar,
+				or last char of pattern if no temps declared
+	correctionDelta	<Integer> offset of corrected code relative to source stream
+				owing to interactive corrections so far

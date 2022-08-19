@@ -1,0 +1,1 @@
+I am a SwitchController that will not take control if the model (a Switch) is locked.  As an indication, the view (a SwitchView) flashes.

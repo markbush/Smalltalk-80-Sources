@@ -1,0 +1,10 @@
+{
+  "class": "ChangeScanner",
+  "superclass": "Scanner",
+  "classType": "subclass",
+  "instanceVariables": "file chunkString",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "System-Changes",
+}

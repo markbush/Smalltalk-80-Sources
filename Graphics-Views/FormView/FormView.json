@@ -1,0 +1,10 @@
+{
+  "class": "FormView",
+  "superclass": "View",
+  "classType": "subclass",
+  "instanceVariables": "rule mask",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Graphics-Views",
+}
