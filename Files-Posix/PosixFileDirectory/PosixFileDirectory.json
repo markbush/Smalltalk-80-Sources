@@ -1,0 +1,10 @@
+{
+  "class": "PosixFileDirectory",
+  "superclass": "FileDirectory",
+  "classType": "subclass",
+  "instanceVariables": "",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Files-Posix",
+}

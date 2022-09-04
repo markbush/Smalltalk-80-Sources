@@ -1,0 +1,10 @@
+{
+  "class": "PosixFile",
+  "superclass": "File",
+  "classType": "subclass",
+  "instanceVariables": "fd cachedPageSize",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Files-Posix",
+}

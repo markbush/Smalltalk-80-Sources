@@ -13,3 +13,5 @@ Below each class, there are `class` and `instance` directories with methods for 
 Each method is then contained in a file specified by its selector.
 
 Due to limitations of filenames, forward slashes have been changed to `SLASH` in filenames.
+
+The `Files-Posix` category of classes from [Dan Banay](https://github.com/dbanay)'s C++ [Smalltalk-80 interpreter](https://github.com/dbanay/Smalltalk) has been included.

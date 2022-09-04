@@ -1,0 +1,10 @@
+{
+  "class": "PosixFilePage",
+  "superclass": "FilePage",
+  "classType": "subclass",
+  "instanceVariables": "pageNumber bytesInPage",
+  "classInstanceVariables": "",
+  "classVariables": "",
+  "poolDictionaries": "",
+  "category": "Files-Posix",
+}
