@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "BytesForHeader BytesPerLiteral LargeFrame SmallFrame SpecialConstants TempNameCache",
   "poolDictionaries": "",
-  "category": "Kernel-Methods",
+  "category": "Kernel-Methods"
 }

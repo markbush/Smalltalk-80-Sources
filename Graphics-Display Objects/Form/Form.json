@@ -6,5 +6,5 @@
   "classInstanceVariables": "whiteMask darkGrayMask grayMask blackMask lightGrayMask veryLightGrayMask",
   "classVariables": "OneBitForm",
   "poolDictionaries": "",
-  "category": "Graphics-Display Objects",
+  "category": "Graphics-Display Objects"
 }

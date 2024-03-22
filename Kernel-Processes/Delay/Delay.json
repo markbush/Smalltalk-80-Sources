@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "AccessProtect ActiveDelay SuspendedDelays TimingSemaphore",
   "poolDictionaries": "",
-  "category": "Kernel-Processes",
+  "category": "Kernel-Processes"
 }

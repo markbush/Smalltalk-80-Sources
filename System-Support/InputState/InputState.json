@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "BitMax BitMin CtrlKey InputProcess InputSemaphore LockKey LshiftKey RshiftKey",
   "poolDictionaries": "",
-  "category": "System-Support",
+  "category": "System-Support"
 }

@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "BlankCursor CornerCursor CrossHairCursor CurrentCursor DownCursor MarkerCursor NormalCursor OriginCursor ReadCursor SquareCursor UpCursor WaitCursor WriteCursor XeqCursor",
   "poolDictionaries": "",
-  "category": "Graphics-Display Objects",
+  "category": "Graphics-Display Objects"
 }

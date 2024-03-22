@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "CurrentSelection Keyboard TextEditorYellowButtonMenu TextEditorYellowButtonMessages UndoSelection",
   "poolDictionaries": "TextConstants",
-  "category": "Interface-Text",
+  "category": "Interface-Text"
 }

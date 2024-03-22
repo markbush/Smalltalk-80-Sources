@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "Bfp CodeBases CodeLimits Dup EndMethod EndRemote Jmp JmpLimit JmpLong LdFalse LdInstLong LdInstType LdLitIndType LdLitType LdMinus1 LdNil LdSelf LdSuper LdTempType LdThisContext LdTrue NodeFalse NodeNil NodeSelf NodeSuper NodeThisContext NodeTrue Pop Send SendLimit SendLong SendPlus SendType ShortStoP StdLiterals StdSelectors StdVariables Store StorePop",
   "poolDictionaries": "",
-  "category": "System-Compiler",
+  "category": "System-Compiler"
 }

@@ -6,5 +6,5 @@
   "classInstanceVariables": "",
   "classVariables": "MacroEmitters MacroSelectors MacroSizers MacroTransformers ThenFlag",
   "poolDictionaries": "",
-  "category": "System-Compiler",
+  "category": "System-Compiler"
 }
